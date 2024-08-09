@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}
