@@ -1,6 +1,4 @@
-afraid
-agree
-angry
-arrive
-attack
+elude
+fend
+embryo
 apple
