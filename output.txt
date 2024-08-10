@@ -1,4 +1,1 @@
-elude|/<span class="ipa dipa lpr-2 lpl-1">iˈluːd</span>/|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71495.mp3
-fend|N/A|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld00463.mp3
-embryo|/<span class="ipa dipa lpr-2 lpl-1">ˈem.bri.oʊ</span>/|https://dictionary.cambridge.org/vi/media/english/us_pron/e/emb/embry/embryo.mp3
-apple|/<span class="ipa dipa lpr-2 lpl-1">ˈæp.<span class="sp dsp">ə</span>l</span>/|https://dictionary.cambridge.org/vi/media/english/us_pron/a/app/apple/apple.mp3
+fend|undefined|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld00463.mp3

@@ -12,9 +12,6 @@ async function processWord(queryWord) {
     const proxyUrl = 'https://proxy-server-self-six.vercel.app/proxy?url='; // Thay thế bằng URL proxy của bạn nếu có
     const url = `https://dictionary.cambridge.org/vi/dictionary/english/${queryWord.trim()}`;
 
-    let phonetic = 'N/A';
-    let usAudio = 'N/A';
-
     try {
         const response = await fetch(proxyUrl + encodeURIComponent(url));
         const htmlContent = await response.text();
@@ -23,12 +20,11 @@ async function processWord(queryWord) {
         const dom = new JSDOM(htmlContent);
         const document = dom.window.document;
 
-        const usAudioMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i source')).filter(e => e.getAttribute("src")?.includes('.mp3')).map(e => e.getAttribute("src").trim())[0];
-        usAudio = usAudioMatch ? 'https://dictionary.cambridge.org' + usAudioMatch : 'N/A';
-        
-        const phoneticMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i > span.pron.dpron')).map(e => e.outerHTML.trim())[0].match(/>(\/.*?\/)</);
-        phonetic = phoneticMatch ? phoneticMatch[1] : 'N/A';
+        const phoneticMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i > span.pron.dpron')).map(e => e.outerHTML.trim());
+        const phonetic = phoneticMatch ? phoneticMatch[0] : 'N/A';
 
+        const usAudioMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i source')).filter(e => e.getAttribute("src")?.includes('.mp3')).map(e => e.getAttribute("src").trim())[0];
+        const usAudio = usAudioMatch ? 'https://dictionary.cambridge.org' + usAudioMatch : 'N/A';
         
         
         // Ghi kết quả vào file
