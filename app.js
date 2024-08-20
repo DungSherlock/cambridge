@@ -11,30 +11,49 @@ const outputFilePath = path.join(process.cwd(), 'output.txt');
 async function processWord(queryWord) {
     const proxyUrl = 'http://localhost:3000/proxy?url='; // Thay thế bằng URL proxy của bạn nếu có
     const url = `https://dictionary.cambridge.org/vi/dictionary/english/${queryWord.trim()}`;
+    let attempts = 0;
+    const maxAttempts = 10; // Số lần thử tối đa
 
-    try {
-        const response = await fetch(proxyUrl + encodeURIComponent(url));
-        const htmlContent = await response.text();
+    while (attempts < maxAttempts) {
+        try {
+            attempts += 1;
+            const response = await fetch(proxyUrl + encodeURIComponent(url));
+            
+            if (!response.ok) {
+                console.error(`Thử lần ${attempts} thất bại cho từ "${queryWord}".`);
+                continue;
+            }
 
-        // Sử dụng JSDOM để phân tích HTML trong môi trường Node.js
-        const dom = new JSDOM(htmlContent);
-        const document = dom.window.document;
+            const htmlContent = await response.text();
 
-        const phoneticMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i > span.pron.dpron')).map(e => e.outerHTML.trim());
-        const phonetic = phoneticMatch ? phoneticMatch[0] : 'N/A';
+            // Sử dụng JSDOM để phân tích HTML trong môi trường Node.js
+            const dom = new JSDOM(htmlContent);
+            const document = dom.window.document;
 
-        const usAudioMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i source')).filter(e => e.getAttribute("src")?.includes('.mp3')).map(e => e.getAttribute("src").trim())[0];
-        const usAudio = usAudioMatch ? 'https://dictionary.cambridge.org' + usAudioMatch : 'N/A';
-        
-        
-        // Ghi kết quả vào file
-        return `${queryWord}|${phonetic}|${usAudio}`;
-    } catch (error) {
-        console.error(`Lỗi khi xử lý từ "${queryWord}":`, error);
-        // Không thay đổi giá trị của phonetic và usAudio vì chúng đã được khởi tạo trước đó
+            const phoneticMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i > span.pron.dpron')).map(e => e.outerHTML.trim());
+            const phonetic = phoneticMatch.length > 0 ? phoneticMatch[0] : 'N/A';
+
+            const usAudioMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i source')).filter(e => e.getAttribute("src")?.includes('.mp3')).map(e => e.getAttribute("src").trim())[0];
+            const usAudio = usAudioMatch ? 'https://dictionary.cambridge.org' + usAudioMatch : 'N/A';
+
+            return `${queryWord}|${phonetic}|${usAudio}`;
+        } catch (error) {
+            console.error(`Lỗi khi thử lần ${attempts} cho từ "${queryWord}":`, error);
+        }
     }
-    // Trả về kết quả
-    return `${queryWord}|${phonetic}|${usAudio}`;
+
+    return `${queryWord}|N/A|N/A`;
+}
+
+// Hàm để chạy các promises với giới hạn song song
+async function processInBatches(words, batchSize) {
+    const results = [];
+    for (let i = 0; i < words.length; i += batchSize) {
+        const batch = words.slice(i, i + batchSize).map(processWord);
+        const batchResults = await Promise.all(batch);
+        results.push(...batchResults);
+    }
+    return results;
 }
 
 // Đọc file list.txt và xử lý từng từ
@@ -45,15 +64,11 @@ fs.readFile(filePath, 'utf8', async (err, data) => {
     }
 
     // Tách file thành các dòng và xử lý mỗi dòng như một từ
-    const lines = data.split(/\r?\n/);
+    const lines = data.split(/\r?\n/).map(line => line.trim()).filter(queryWord => queryWord);
 
-    // Tạo mảng các Promise để xử lý đồng thời các từ
-    const results = await Promise.all(
-        lines
-            .map(line => line.trim())
-            .filter(queryWord => queryWord) // Bỏ qua các dòng trống
-            .map(queryWord => processWord(queryWord))
-    );
+    // Giới hạn số lượng từ xử lý đồng thời
+    const batchSize = 100; // Số lượng link tối đa xử lý mỗi lần
+    const results = await processInBatches(lines, batchSize);
 
     // Ghi tất cả kết quả vào file output.txt
     fs.writeFile(outputFilePath, results.join('\n'), (writeErr) => {
