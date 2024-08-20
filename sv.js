@@ -2,43 +2,15 @@ import express from 'express';
 import cors from 'cors';
 import axios from 'axios';
 import compression from 'compression';
-import NodeCache from 'node-cache';
+import cluster from 'cluster';
+import os from 'os';
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(cors()); // This will allow all origins, adjust as needed
+app.use(compression()); // Middleware for compression
 
-// Tạo một đối tượng cache với NodeCache
-const cache = new NodeCache({ stdTTL: 0, checkperiod: 120 }); // stdTTL là thời gian sống mặc định của cache (60 giây), bằng 0 là không giới hạn, checkperiod là khoảng thời gian kiểm tra cache hết hạn
-
-// Middleware để xử lý cache
-app.use(async (req, res, next) => {
-  const key = `${req.method}:${req.url}`;
-  const cachedData = cache.get(key);
-  
-  if (cachedData) {
-    res.send(cachedData);
-  } else {
-    res.sendResponse = res.send;
-    res.send = (body) => {
-      cache.set(key, body); // Lưu dữ liệu vào cache
-      res.sendResponse(body);
-    };
-    next();
-  }
-});
-
-// Endpoint để xóa cache
-app.post('/clear-cache', (req, res) => {
-  cache.flushAll(); // Xóa tất cả dữ liệu trong cache
-  res.send('Cache cleared');
-});
-
-// Sử dụng middleware nén
-app.use(compression());
-
-// Code chính
 app.get('/proxy', async (req, res) => {
   const url = req.query.url;
   if (!url) {
@@ -57,6 +29,18 @@ app.get('/proxy', async (req, res) => {
   }
 });
 
-app.listen(port, () => {
-  console.log(`Proxy server running at http://localhost:${port}`);
-});
+if (cluster.isMaster) {
+  const numCPUs = os.cpus().length;
+
+  for (let i = 0; i < numCPUs; i++) {
+    cluster.fork();
+  }
+
+  cluster.on('exit', (worker, code, signal) => {
+    console.log(`Worker ${worker.process.pid} died`);
+  });
+} else {
+  app.listen(port, () => {
+    console.log(`Proxy server running at http://localhost:${port}`);
+  });
+}
