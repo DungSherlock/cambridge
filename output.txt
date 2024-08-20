@@ -1,762 +1,762 @@
-egg|N/A|N/A
-article|N/A|N/A
-action|N/A|N/A
-actor|N/A|N/A
-actress|N/A|N/A
-adult|N/A|N/A
-advice|N/A|N/A
-afternoon|N/A|N/A
-angry|N/A|N/A
-answer|N/A|N/A
-anyone|N/A|N/A
-anything|N/A|N/A
-artist|N/A|N/A
-aunt|N/A|N/A
-back|N/A|N/A
-bag|N/A|N/A
-banana|N/A|N/A
-bank|N/A|N/A
-bathroom|N/A|N/A
-beach|N/A|N/A
-beginning|N/A|N/A
-better|N/A|N/A
-between|N/A|N/A
-bored|N/A|N/A
-bottle|N/A|N/A
-box|N/A|N/A
-boyfriend|N/A|N/A
-break|N/A|N/A
-building|N/A|N/A
-business|N/A|N/A
-cafe|N/A|N/A
-cake|N/A|N/A
-call|N/A|N/A
-camera|N/A|N/A
-capital|N/A|N/A
-career|N/A|N/A
-carry|N/A|N/A
-cent|N/A|N/A
-chart|N/A|N/A
-check|N/A|N/A
-cheese|N/A|N/A
-chocolate|N/A|N/A
-choose|N/A|N/A
-cinema|N/A|N/A
-classroom|N/A|N/A
-clothes|N/A|N/A
-coat|N/A|N/A
-college|N/A|N/A
-colour|N/A|N/A
-company|N/A|N/A
-compare|N/A|N/A
-computer|N/A|N/A
-conversation|N/A|N/A
-cream|N/A|N/A
-culture|N/A|N/A
-customer|N/A|N/A
-dance|N/A|N/A
-dangerous|N/A|N/A
-decide|N/A|N/A
-design|N/A|N/A
-desk|N/A|N/A
-dialogue|N/A|N/A
-dictionary|N/A|N/A
-diet|N/A|N/A
-different|N/A|N/A
-difficult|N/A|N/A
-dinner|N/A|N/A
-discuss|N/A|N/A
-doctor|N/A|N/A
-dog|N/A|N/A
-dollar|N/A|N/A
-door|N/A|N/A
-downstairs|N/A|N/A
-dress|N/A|N/A
-elephant|N/A|N/A
-email|N/A|N/A
-enough|N/A|N/A
-evening|N/A|N/A
-exam|N/A|N/A
-example|N/A|N/A
-excited|N/A|N/A
-exercise|N/A|N/A
-explain|N/A|N/A
-favourite|N/A|N/A
-festival|N/A|N/A
-film|N/A|N/A
-finish|N/A|N/A
-flower|N/A|N/A
-football|N/A|N/A
-forget|N/A|N/A
-front|N/A|N/A
-fruit|N/A|N/A
-game|N/A|N/A
-garden|N/A|N/A
-geography|N/A|N/A
-girlfriend|N/A|N/A
-give|N/A|N/A
-grandparent|N/A|N/A
-guess|N/A|N/A
-guitar|N/A|N/A
-hair|N/A|N/A
-hat|N/A|N/A
-hello|N/A|N/A
-help|N/A|N/A
-holiday|N/A|N/A
-horse|N/A|N/A
-hospital|N/A|N/A
-however|N/A|N/A
-idea|N/A|N/A
-imagine|N/A|N/A
-improve|N/A|N/A
-include|N/A|N/A
-interest|N/A|N/A
-interested|N/A|N/A
-interesting|N/A|N/A
-internet|N/A|N/A
-introduce|N/A|N/A
-jacket|N/A|N/A
-journey|N/A|N/A
-kilometer|N/A|N/A
-language|N/A|N/A
-left|N/A|N/A
-leg|N/A|N/A
-letter|N/A|N/A
-library|N/A|N/A
-life|N/A|N/A
-lion|N/A|N/A
-local|N/A|N/A
-love|N/A|N/A
-machine|N/A|N/A
-many|N/A|N/A
-maybe|N/A|N/A
-meeting|N/A|N/A
-message|N/A|N/A
-mistake|N/A|N/A
-morning|N/A|N/A
-mother|N/A|N/A
-mouth|N/A|N/A
-move|N/A|N/A
-movie|N/A|N/A
-much|N/A|N/A
-museum|N/A|N/A
-music|N/A|N/A
-natural|N/A|N/A
-need|N/A|N/A
-neighbour|N/A|N/A
-newspaper|N/A|N/A
-north|N/A|N/A
-object|N/A|N/A
-off|N/A|N/A
-office|N/A|N/A
-onion|N/A|N/A
-opinion|N/A|N/A
-opposite|N/A|N/A
-order|N/A|N/A
-other|N/A|N/A
-outside|N/A|N/A
-over|N/A|N/A
-paint|N/A|N/A
-paragraph|N/A|N/A
-partner|N/A|N/A
-party|N/A|N/A
-passport|N/A|N/A
-pencil|N/A|N/A
-pepper|N/A|N/A
-perfect|N/A|N/A
-personal|N/A|N/A
-photo|N/A|N/A
-photograph|N/A|N/A
-piano|N/A|N/A
-picture|N/A|N/A
-piece|N/A|N/A
-pig|N/A|N/A
-plan|N/A|N/A
-plant|N/A|N/A
-please|N/A|N/A
-point|N/A|N/A
-police|N/A|N/A
-poor|N/A|N/A
-possible|N/A|N/A
-potato|N/A|N/A
-prefer|N/A|N/A
-problem|N/A|N/A
-project|N/A|N/A
-radio|N/A|N/A
-reader|N/A|N/A
-really|N/A|N/A
-remember|N/A|N/A
-report|N/A|N/A
-river|N/A|N/A
-room|N/A|N/A
-salad|N/A|N/A
-salt|N/A|N/A
-same|N/A|N/A
-sandwich|N/A|N/A
-scientist|N/A|N/A
-second|N/A|N/A
-should|N/A|N/A
-shower|N/A|N/A
-situation|N/A|N/A
-snow|N/A|N/A
-some|N/A|N/A
-soon|N/A|N/A
-south|N/A|N/A
-space|N/A|N/A
-spelling|N/A|N/A
-sport|N/A|N/A
-spring|N/A|N/A
-star|N/A|N/A
-statement|N/A|N/A
-street|N/A|N/A
-study|N/A|N/A
-subject|N/A|N/A
-success|N/A|N/A
-sugar|N/A|N/A
-supermarket|N/A|N/A
-sure|N/A|N/A
-sweater|N/A|N/A
-taxi|N/A|N/A
-teach|N/A|N/A
-telephone|N/A|N/A
-television|N/A|N/A
-tennis|N/A|N/A
-test|N/A|N/A
-theatre|N/A|N/A
-thing|N/A|N/A
-ticket|N/A|N/A
-toilet|N/A|N/A
-tomato|N/A|N/A
-tourist|N/A|N/A
-town|N/A|N/A
-train|N/A|N/A
-tree|N/A|N/A
-trousers|N/A|N/A
-TRUE|N/A|N/A
-umbrella|N/A|N/A
-uncle|N/A|N/A
-university|N/A|N/A
-upstairs|N/A|N/A
-usually|N/A|N/A
-vacation|N/A|N/A
-vegetable|N/A|N/A
-video|N/A|N/A
-walk|N/A|N/A
-wall|N/A|N/A
-watch|N/A|N/A
-water|N/A|N/A
-weather|N/A|N/A
-window|N/A|N/A
-wonderful|N/A|N/A
-worker|N/A|N/A
-would|N/A|N/A
-write|N/A|N/A
-writing|N/A|N/A
-year|N/A|N/A
-yesterday|N/A|N/A
-yourself|N/A|N/A
-activity|N/A|N/A
-agree|N/A|N/A
-always|N/A|N/A
-amazing|N/A|N/A
-animal|N/A|N/A
-arm|N/A|N/A
-autumn|N/A|N/A
-behind|N/A|N/A
-bicycle|N/A|N/A
-build|N/A|N/A
-club|N/A|N/A
-common|N/A|N/A
-complete|N/A|N/A
-dear|N/A|N/A
-father|N/A|N/A
-flat|N/A|N/A
-friendly|N/A|N/A
-future|N/A|N/A
-hotel|N/A|N/A
-into|N/A|N/A
-juice|N/A|N/A
-list|N/A|N/A
-mouse|N/A|N/A
-online|N/A|N/A
-orange|N/A|N/A
-paper|N/A|N/A
-popular|N/A|N/A
-practise|N/A|N/A
-real|N/A|N/A
-relax|N/A|N/A
-restaurant|N/A|N/A
-snake|N/A|N/A
-station|N/A|N/A
-story|N/A|N/A
-traffic|N/A|N/A
-travel|N/A|N/A
-trip|N/A|N/A
-type|N/A|N/A
-understand|N/A|N/A
-wait|N/A|N/A
-waiter|N/A|N/A
-wine|N/A|N/A
-work|N/A|N/A
-young|N/A|N/A
-above|N/A|N/A
-across|N/A|N/A
-add|N/A|N/A
-address|N/A|N/A
-afraid|N/A|N/A
-after|N/A|N/A
-again|N/A|N/A
-air|N/A|N/A
-airport|N/A|N/A
-another|N/A|N/A
-apartment|N/A|N/A
-apple|N/A|N/A
-area|N/A|N/A
-around|N/A|N/A
-arrive|N/A|N/A
-art|N/A|N/A
-ask|N/A|N/A
-away|N/A|N/A
-baby|N/A|N/A
-ball|N/A|N/A
-band|N/A|N/A
-bath|N/A|N/A
-beautiful|N/A|N/A
-because|N/A|N/A
-become|N/A|N/A
-bedroom|N/A|N/A
-before|N/A|N/A
-begin|N/A|N/A
-believe|N/A|N/A
-below|N/A|N/A
-best|N/A|N/A
-bike|N/A|N/A
-bill|N/A|N/A
-bird|N/A|N/A
-birthday|N/A|N/A
-black|N/A|N/A
-blonde|N/A|N/A
-blue|N/A|N/A
-boat|N/A|N/A
-body|N/A|N/A
-book|N/A|N/A
-boot|N/A|N/A
-boring|N/A|N/A
-born|N/A|N/A
-both|N/A|N/A
-bread|N/A|N/A
-breakfast|N/A|N/A
-bring|N/A|N/A
-brother|N/A|N/A
-busy|N/A|N/A
-butter|N/A|N/A
-carrot|N/A|N/A
-cat|N/A|N/A
-centre|N/A|N/A
-century|N/A|N/A
-chair|N/A|N/A
-change|N/A|N/A
-cheap|N/A|N/A
-chicken|N/A|N/A
-child|N/A|N/A
-city|N/A|N/A
-clean|N/A|N/A
-climb|N/A|N/A
-close|N/A|N/A
-coffee|N/A|N/A
-cold|N/A|N/A
-come|N/A|N/A
-concert|N/A|N/A
-cook|N/A|N/A
-cooking|N/A|N/A
-correct|N/A|N/A
-cost|N/A|N/A
-country|N/A|N/A
-course|N/A|N/A
-cousin|N/A|N/A
-cow|N/A|N/A
-create|N/A|N/A
-cup|N/A|N/A
-cut|N/A|N/A
-dancer|N/A|N/A
-dancing|N/A|N/A
-dark|N/A|N/A
-date|N/A|N/A
-daughter|N/A|N/A
-delicious|N/A|N/A
-describe|N/A|N/A
-detail|N/A|N/A
-dish|N/A|N/A
-down|N/A|N/A
-draw|N/A|N/A
-drink|N/A|N/A
-drive|N/A|N/A
-driver|N/A|N/A
-during|N/A|N/A
-ear|N/A|N/A
-early|N/A|N/A
-east|N/A|N/A
-easy|N/A|N/A
-eat|N/A|N/A
-eleven|N/A|N/A
-end|N/A|N/A
-enjoy|N/A|N/A
-euro|N/A|N/A
-even|N/A|N/A
-event|N/A|N/A
-ever|N/A|N/A
-every|N/A|N/A
-everybody|N/A|N/A
-everyone|N/A|N/A
-everything|N/A|N/A
-exciting|N/A|N/A
-expensive|N/A|N/A
-extra|N/A|N/A
-eye|N/A|N/A
-face|N/A|N/A
-fact|N/A|N/A
-fall|N/A|N/A
-FALSE|N/A|N/A
-family|N/A|N/A
-famous|N/A|N/A
-fantastic|N/A|N/A
-farm|N/A|N/A
-farmer|N/A|N/A
-fast|N/A|N/A
-fat|N/A|N/A
-feel|N/A|N/A
-feeling|N/A|N/A
-fifteen|N/A|N/A
-fill|N/A|N/A
-final|N/A|N/A
-find|N/A|N/A
-fine|N/A|N/A
-fire|N/A|N/A
-first|N/A|N/A
-fish|N/A|N/A
-flight|N/A|N/A
-floor|N/A|N/A
-follow|N/A|N/A
-food|N/A|N/A
-foot|N/A|N/A
-form|N/A|N/A
-free|N/A|N/A
-friend|N/A|N/A
-from|N/A|N/A
-full|N/A|N/A
-fun|N/A|N/A
-funny|N/A|N/A
-glass|N/A|N/A
-good|N/A|N/A
-goodbye|N/A|N/A
-grandfather|N/A|N/A
-grandmother|N/A|N/A
-green|N/A|N/A
-group|N/A|N/A
-grow|N/A|N/A
-gym|N/A|N/A
-half|N/A|N/A
-hand|N/A|N/A
-happen|N/A|N/A
-happy|N/A|N/A
-hard|N/A|N/A
-hate|N/A|N/A
-head|N/A|N/A
-health|N/A|N/A
-healthy|N/A|N/A
-hear|N/A|N/A
-high|N/A|N/A
-hobby|N/A|N/A
-home|N/A|N/A
-homework|N/A|N/A
-hope|N/A|N/A
-hot|N/A|N/A
-hour|N/A|N/A
-house|N/A|N/A
-hundred|N/A|N/A
-hungry|N/A|N/A
-husband|N/A|N/A
-ice|N/A|N/A
-information|N/A|N/A
-island|N/A|N/A
-jeans|N/A|N/A
-job|N/A|N/A
-join|N/A|N/A
-just|N/A|N/A
-keep|N/A|N/A
-key|N/A|N/A
-kind|N/A|N/A
-kitchen|N/A|N/A
-know|N/A|N/A
-land|N/A|N/A
-large|N/A|N/A
-last|N/A|N/A
-late|N/A|N/A
-later|N/A|N/A
-laugh|N/A|N/A
-learn|N/A|N/A
-leave|N/A|N/A
-lesson|N/A|N/A
-let|N/A|N/A
-lie|N/A|N/A
-light|N/A|N/A
-like|N/A|N/A
-line|N/A|N/A
-listen|N/A|N/A
-little|N/A|N/A
-live|N/A|N/A
-long|N/A|N/A
-look|N/A|N/A
-lunch|N/A|N/A
-main|N/A|N/A
-make|N/A|N/A
-map|N/A|N/A
-married|N/A|N/A
-match|N/A|N/A
-meal|N/A|N/A
-mean|N/A|N/A
-meaning|N/A|N/A
-meat|N/A|N/A
-meet|N/A|N/A
-member|N/A|N/A
-menu|N/A|N/A
-metre|N/A|N/A
-midnight|N/A|N/A
-mile|N/A|N/A
-milk|N/A|N/A
-million|N/A|N/A
-minute|N/A|N/A
-miss|N/A|N/A
-model|N/A|N/A
-modern|N/A|N/A
-moment|N/A|N/A
-money|N/A|N/A
-month|N/A|N/A
-most|N/A|N/A
-mountain|N/A|N/A
-name|N/A|N/A
-near|N/A|N/A
-negative|N/A|N/A
-never|N/A|N/A
-news|N/A|N/A
-next|N/A|N/A
-nice|N/A|N/A
-night|N/A|N/A
-nineteen|N/A|N/A
-ninety|N/A|N/A
-nobody|N/A|N/A
-nose|N/A|N/A
-note|N/A|N/A
-nothing|N/A|N/A
-number|N/A|N/A
-nurse|N/A|N/A
-o'clock|N/A|N/A
-often|N/A|N/A
-once|N/A|N/A
-only|N/A|N/A
-open|N/A|N/A
-out|N/A|N/A
-own|N/A|N/A
-page|N/A|N/A
-painting|N/A|N/A
-pair|N/A|N/A
-parent|N/A|N/A
-park|N/A|N/A
-part|N/A|N/A
-past|N/A|N/A
-pay|N/A|N/A
-pen|N/A|N/A
-people|N/A|N/A
-period|N/A|N/A
-person|N/A|N/A
-phone|N/A|N/A
-phrase|N/A|N/A
-place|N/A|N/A
-play|N/A|N/A
-player|N/A|N/A
-policeman|N/A|N/A
-pool|N/A|N/A
-positive|N/A|N/A
-post|N/A|N/A
-pound|N/A|N/A
-prepare|N/A|N/A
-present|N/A|N/A
-pretty|N/A|N/A
-price|N/A|N/A
-probably|N/A|N/A
-product|N/A|N/A
-program|N/A|N/A
-purple|N/A|N/A
-put|N/A|N/A
-quarter|N/A|N/A
-question|N/A|N/A
-quick|N/A|N/A
-quickly|N/A|N/A
-quiet|N/A|N/A
-quite|N/A|N/A
-rain|N/A|N/A
-read|N/A|N/A
-reading|N/A|N/A
-ready|N/A|N/A
-reason|N/A|N/A
-result|N/A|N/A
-return|N/A|N/A
-rice|N/A|N/A
-rich|N/A|N/A
-ride|N/A|N/A
-right|N/A|N/A
-road|N/A|N/A
-routine|N/A|N/A
-run|N/A|N/A
-sad|N/A|N/A
-school|N/A|N/A
-sea|N/A|N/A
-see|N/A|N/A
-sell|N/A|N/A
-send|N/A|N/A
-share|N/A|N/A
-sheep|N/A|N/A
-shoe|N/A|N/A
-shop|N/A|N/A
-shopping|N/A|N/A
-short|N/A|N/A
-show|N/A|N/A
-similar|N/A|N/A
-singer|N/A|N/A
-sister|N/A|N/A
-sit|N/A|N/A
-skill|N/A|N/A
-skirt|N/A|N/A
-sleep|N/A|N/A
-slow|N/A|N/A
-small|N/A|N/A
-somebody|N/A|N/A
-someone|N/A|N/A
-something|N/A|N/A
-sometimes|N/A|N/A
-song|N/A|N/A
-sorry|N/A|N/A
-sound|N/A|N/A
-soup|N/A|N/A
-speak|N/A|N/A
-special|N/A|N/A
-spell|N/A|N/A
-spend|N/A|N/A
-stand|N/A|N/A
-start|N/A|N/A
-stay|N/A|N/A
-still|N/A|N/A
-stop|N/A|N/A
-student|N/A|N/A
-style|N/A|N/A
-summer|N/A|N/A
-sun|N/A|N/A
-swim|N/A|N/A
-swimming|N/A|N/A
-table|N/A|N/A
-take|N/A|N/A
-talk|N/A|N/A
-tea|N/A|N/A
-teacher|N/A|N/A
-team|N/A|N/A
-teenager|N/A|N/A
-tell|N/A|N/A
-terrible|N/A|N/A
-text|N/A|N/A
-think|N/A|N/A
-third|N/A|N/A
-thirsty|N/A|N/A
-thousand|N/A|N/A
-through|N/A|N/A
-time|N/A|N/A
-tired|N/A|N/A
-title|N/A|N/A
-today|N/A|N/A
-together|N/A|N/A
-tomorrow|N/A|N/A
-tonight|N/A|N/A
-tooth|N/A|N/A
-topic|N/A|N/A
-try|N/A|N/A
-turn|N/A|N/A
-twelve|N/A|N/A
-twice|N/A|N/A
-under|N/A|N/A
-until|N/A|N/A
-useful|N/A|N/A
-very|N/A|N/A
-village|N/A|N/A
-visit|N/A|N/A
-visitor|N/A|N/A
-wake|N/A|N/A
-want|N/A|N/A
-warm|N/A|N/A
-wash|N/A|N/A
-way|N/A|N/A
-wear|N/A|N/A
-website|N/A|N/A
-week|N/A|N/A
-weekend|N/A|N/A
-well|N/A|N/A
-white|N/A|N/A
-wife|N/A|N/A
-win|N/A|N/A
-winter|N/A|N/A
-with|N/A|N/A
-without|N/A|N/A
-woman|N/A|N/A
-word|N/A|N/A
-world|N/A|N/A
-writer|N/A|N/A
-yeah|N/A|N/A
-die|N/A|N/A
-fly|N/A|N/A
-mum|N/A|N/A
-thirty|N/A|N/A
-bed|N/A|N/A
-brown|N/A|N/A
-cool|N/A|N/A
-dad|N/A|N/A
-dirty|N/A|N/A
-eighteen|N/A|N/A
-eighty|N/A|N/A
-far|N/A|N/A
-fifth|N/A|N/A
-fifty|N/A|N/A
-forty|N/A|N/A
-fourteen|N/A|N/A
-fourth|N/A|N/A
-girl|N/A|N/A
-great|N/A|N/A
-grey|N/A|N/A
-lose|N/A|N/A
-man|N/A|N/A
-more|N/A|N/A
-pink|N/A|N/A
-red|N/A|N/A
-seventeen|N/A|N/A
-seventy|N/A|N/A
-sick|N/A|N/A
-sing|N/A|N/A
-sixteen|N/A|N/A
-sixty|N/A|N/A
-son|N/A|N/A
-tall|N/A|N/A
-thirteen|N/A|N/A
-twenty|N/A|N/A
-wrong|N/A|N/A
-blog|N/A|N/A
-clock|N/A|N/A
-description|N/A|N/A
-difference|N/A|N/A
-interview|N/A|N/A
-magazine|N/A|N/A
-practice|N/A|N/A
-science|N/A|N/A
-rule|N/A|N/A
-sentence|N/A|N/A
-shirt|N/A|N/A
-card|N/A|N/A
-history|N/A|N/A
-important|N/A|N/A
-back|N/A|N/A
+egg|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">eɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/egg/egg__/egg.mp3
+article|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑːr.t̬ɪ.k<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus70/eus70319.mp3
+action|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæk.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/act/actio/action.mp3
+actor|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæk.tɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/act/actor/actor.mp3
+actress|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæk.trəs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld01818.mp3
+adult|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæd.ʌlt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/adu/adult/adult.mp3
+advice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ədˈvaɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/adv/advic/advice.mp3
+afternoon|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌæf.tɚˈnuːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/aft/after/afternoon.mp3
+angry|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæŋ.ɡri</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ang/angry/angry.mp3
+answer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæn.sɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ans/answe/answer.mp3
+anyone|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈen.i.wʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/any/anyon/anyone.mp3
+anything|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈen.i.θɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/any/anyth/anything.mp3
+artist|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑːr.t̬ɪst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/art/artis/artist.mp3
+aunt|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ænt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/aun/aunt_/aunt.mp3
+back|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bæk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bac/back_/back.mp3
+bag|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bæɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bag/bag__/bag.mp3
+banana|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bəˈnæn.ə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/ban/banan/banana.mp3
+bank|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bæŋk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/ban/bank_/bank.mp3
+bathroom|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbæθ.ruːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bat/bathr/bathroom.mp3
+beach|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">biːtʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bea/beach/beach.mp3
+beginning|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈɡɪn.ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/beg/begin/beginning.mp3
+better|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbet̬.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bet/bette/better.mp3
+between|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈtwiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bet/betwe/between.mp3
+bored|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɔːrd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/boa/board/board.mp3
+bottle|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɑː.t̬<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld2s095.mp3
+box|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɑːks</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/box/box__/box.mp3
+boyfriend|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɔɪ.frend</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/boy/boyfr/boyfriend.mp3
+break|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">breɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bra/brake/brake.mp3
+building|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɪl.dɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bui/build/building.mp3
+business|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɪz.nɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bus/busin/business.mp3
+cafe|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kæfˈeɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/caf/cafe_/cafe_01_00.mp3
+cake|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">keɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cak/cake_/cake.mp3
+call|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cal/call_/call.mp3
+camera|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkæm.rə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cam/camer/camera.mp3
+capital|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkæp.ə.t̬<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cap/capit/capital.mp3
+career|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kəˈrɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/car/caree/career.mp3
+carry|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈker.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/car/carry/carry.mp3
+cent|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sent</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cen/cent_/cent.mp3
+chart|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃɑːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cha/chart/chart.mp3
+check|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃek</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/che/check/check.mp3
+cheese|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃiːz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/che/chees/cheese.mp3
+chocolate|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtʃɑːk.lət</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cho/choco/chocolate.mp3
+choose|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃuːz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cho/choos/choose.mp3
+cinema|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɪn.ə.mə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cin/cinem/cinema.mp3
+classroom|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈklæs.ruːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/usciv/uscivil030.mp3
+clothes|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kloʊðz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/clo/cloth/clothes.mp3
+coat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">koʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/coa/coat_/coat.mp3
+college|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkɑː.lɪdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/col/colle/college.mp3
+colour|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʌl.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/col/color/color.mp3
+company|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʌm.pə.ni</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/com/compa/company.mp3
+compare|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kəmˈper</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/com/compa/compare.mp3
+computer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kəmˈpjuː.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/com/compu/computer.mp3
+conversation|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌkɑːn.vɚˈseɪ.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/con/conve/conversation.mp3
+cream|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kriːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cre/cream/cream.mp3
+culture|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʌl.tʃɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cul/cultu/culture.mp3
+customer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʌs.tə.mɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cus/custo/customer.mp3
+dance|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dæns</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dan/dance/dance.mp3
+dangerous|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdeɪn.dʒɚ.əs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dan/dange/dangerous.mp3
+decide|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈsaɪd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75521.mp3
+design|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈzaɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/des/desig/design.mp3
+desk|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">desk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/des/desk_/desk.mp3
+dialogue|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdaɪ.ə.lɑːɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dia/dialo/dialogue.mp3
+dictionary|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɪk.ʃ<span class="sp dsp">ə</span>n.er.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dic/dicti/dictionary.mp3
+diet|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdaɪ.ət</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/die/diet_/diet.mp3
+different|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɪf.ɚ.<span class="sp dsp">ə</span>nt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dif/diffe/different.mp3
+difficult|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɪf.ə.k<span class="sp dsp">ə</span>lt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75602.mp3
+dinner|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɪn.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/din/dinne/dinner.mp3
+discuss|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈskʌs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dis/discu/discuss.mp3
+doctor|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɑːk.tɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/doc/docto/doctor.mp3
+dog|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɑːɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dog/dog__/dog.mp3
+dollar|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɑː.lɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dol/dolla/dollar.mp3
+door|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɔːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/doo/door_/door.mp3
+downstairs|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌdaʊnˈsterz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dow/downs/downstairs.mp3
+dress|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dres</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dre/dress/dress.mp3
+elephant|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈel.ə.fənt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75655.mp3
+email|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈiː.meɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/e_m/e_mai/e_mail.mp3
+enough|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈnʌf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eno/enoug/enough.mp3
+evening|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈiːv.nɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/eveni/evening.mp3
+exam|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪɡˈzæm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/exa/exam_/exam.mp3
+example|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪɡˈzæm.p<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/exa/examp/example.mp3
+excited|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪkˈsaɪ.t̬ɪd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/exc/excit/excited.mp3
+exercise|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈek.sɚ.saɪz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71699.mp3
+explain|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪkˈspleɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/exp/expla/explain.mp3
+favourite|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfeɪ.v<span class="sp dsp">ə</span>r.ət</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fav/favor/favorite.mp3
+festival|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfes.tə.v<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fes/festi/festival.mp3
+film|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɪlm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fil/film_/film.mp3
+finish|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɪn.ɪʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fin/finis/finish.mp3
+flower|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈflaʊ.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/flo/flowe/flower.mp3
+football|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfʊt.bɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/foo/footb/football.mp3
+forget|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɚˈɡet</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71877.mp3
+front|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">frʌnt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fro/front/front.mp3
+fruit|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fruːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fru/fruit/fruit.mp3
+game|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡeɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gam/game_/game.mp3
+garden|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɡɑːr.d<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gar/garde/garden.mp3
+geography|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒiˈɑː.ɡrə.fi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/geo/geogr/geography.mp3
+girlfriend|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɡɝːl.frend</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gir/girlf/girlfriend.mp3
+give|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/giv/give_/give.mp3
+grandparent|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɡræn.per.<span class="sp dsp">ə</span>nt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gra/grand/grandparent.mp3
+guess|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡes</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gue/guess/guess.mp3
+guitar|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡɪˈtɑːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gui/guita/guitar.mp3
+hair|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">her</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hai/hair_/hair.mp3
+hat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hæt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hat/hat__/hat.mp3
+hello|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">heˈloʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hel/hello/hello.mp3
+help|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">help</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hel/help_/help.mp3
+holiday|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhɑː.lə.deɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hol/holid/holiday.mp3
+horse|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hɔːrs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hoa/hoars/hoarse.mp3
+hospital|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhɑː.spɪ.t̬<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72257.mp3
+however|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌhaʊˈev.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/how/howev/however.mp3
+idea|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">aɪˈdiː.ə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/ide/idea_/idea.mp3
+imagine|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪˈmædʒ.ɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/ima/imagi/imagine.mp3
+improve|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪmˈpruːv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/imp/impro/improve.mp3
+include|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪnˈkluːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/inc/inclu/include.mp3
+interest|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɪn.trɪst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/int/inter/interest.mp3
+interested|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɪn.trɪ.stɪd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/int/inter/interested.mp3
+interesting|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɪn.trɪ.stɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/int/inter/interesting.mp3
+internet|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɪn.t̬ɚ.net</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72530.mp3
+introduce|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌɪn.trəˈduːs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/int/intro/introduce.mp3
+jacket|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdʒæk.ɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/jac/jacke/jacket.mp3
+journey|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdʒɝː.ni</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/jou/journ/journey.mp3
+kilometer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kɪˈlɑː.mə.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usk/uskkk/uskkk__006.mp3
+language|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈlæŋ.ɡwɪdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lan/langu/language.mp3
+left|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">left</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lef/left_/left.mp3
+leg|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">leɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/leg/leg__/leg.mp3
+letter|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈlet̬.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/let/lette/letter.mp3
+library|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈlaɪ.brer.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lib/libra/library.mp3
+life|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">laɪf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lif/life_/life.mp3
+lion|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈlaɪ.ən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lio/lion_/lion.mp3
+local|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈloʊ.k<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/loc/local/local.mp3
+love|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lʌv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lov/love_/love.mp3
+machine|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">məˈʃiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mac/machi/machine.mp3
+many|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmen.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/man/many_/many.mp3
+maybe|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmeɪ.bi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/may/maybe/maybe.mp3
+meeting|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmiː.t̬ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72961.mp3
+message|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmes.ɪdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mes/messa/message.mp3
+mistake|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mɪˈsteɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mis/mista/mistake.mp3
+morning|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmɔːr.nɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mor/morni/morning.mp3
+mother|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmʌð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mot/mothe/mother.mp3
+mouth|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">maʊθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mou/mouth/mouth.mp3
+move|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">muːv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mov/move_/move.mp3
+movie|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmuː.vi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mov/movie/movie.mp3
+much|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mʌtʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/muc/much_/much.mp3
+museum|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mjuːˈziː.əm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mus/museu/museum.mp3
+music|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmjuː.zɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mus/music/music.mp3
+natural|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnætʃ.ɚ.<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nat/natur/natural.mp3
+need|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">niːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/k/kne/knead/knead.mp3
+neighbour|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈneɪ.bɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nei/neigh/neighbor.mp3
+newspaper|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnuːzˌpeɪ.pɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usn/usnew/usnewbo012.mp3
+north|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">nɔːrθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nor/north/north.mp3
+object|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑːb.dʒɪkt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75092.mp3
+off|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɑːf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75164.mp3
+office|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑː.fɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75172.mp3
+onion|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʌn.jən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75215.mp3
+opinion|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈpɪn.jən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75237.mp3
+opposite|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑː.pə.zɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75246.mp3
+order|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɔːr.dɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75280.mp3
+other|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʌð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75322.mp3
+outside|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌaʊtˈsaɪd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75376.mp3
+over|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊ.vɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/o/ove/over_/over.mp3
+paint|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">peɪnt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73396.mp3
+paragraph|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈper.ə.ɡræf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/par/parag/paragraph.mp3
+partner|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɑːrt.nɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/par/partn/partner.mp3
+party|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɑːr.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73438.mp3
+passport|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpæs.pɔːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pas/passp/passport.mp3
+pencil|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpen.s<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73475.mp3
+pepper|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpep.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73488.mp3
+perfect|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɝː.fekt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73494.mp3
+personal|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɝː.s<span class="sp dsp">ə</span>n.<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/per/perso/personal.mp3
+photo|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfoʊ.t̬oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73539.mp3
+photograph|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfoʊ.t̬oʊ.ɡræf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pho/photo/photograph.mp3
+piano|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">piˈæn.oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pia/piano/piano.mp3
+picture|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɪk.tʃɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pic/pictu/picture.mp3
+piece|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">piːs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pea/peace/peace.mp3
+pig|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pɪɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pig/pig__/pig.mp3
+plan|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">plæn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pla/plan_/plan.mp3
+plant|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">plænt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pla/plant/plant.mp3
+please|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pliːz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/ple/pleas/please.mp3
+point|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pɔɪnt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/poi/point/point.mp3
+police|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈliːs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pol/polic/police.mp3
+poor|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pʊr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/poo/poor_/poor.mp3
+possible|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɑː.sə.b<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pos/possi/possible.mp3
+potato|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈteɪ.t̬oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pot/potat/potato.mp3
+prefer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">prɪˈfɝː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pre/prefe/prefer.mp3
+problem|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈprɑː.bləm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pro/probl/problem.mp3
+project|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈprɑː.dʒekt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pro/proje/project_01_00.mp3
+radio|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈreɪ.di.oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rad/radio/radio.mp3
+reader|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈriː.dɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/reade/reader.mp3
+really|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈriː.ə.li</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73854.mp3
+remember|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɪˈmem.bɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rem/remem/remember.mp3
+report|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɪˈpɔːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rep/repor/report.mp3
+river|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈrɪv.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/riv/river/river.mp3
+room|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ruːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/roo/room_/room.mp3
+salad|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsæl.əd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sal/salad/salad.mp3
+salt|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sɑːlt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sal/salt_/salt.mp3
+same|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">seɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sam/same_/same.mp3
+sandwich|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsæn.wɪtʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/san/sandw/sandwich.mp3
+scientist|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsaɪ.ən.tɪst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74100.mp3
+second|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsek.<span class="sp dsp">ə</span>nd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sec/secon/second.mp3
+should|<span class="pron dpron"><span class="lab dlab">strong</span> /<span class="ipa dipa lpr-2 lpl-1">ʃʊd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/shoul/should.mp3
+shower|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʃaʊ.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/showe/shower.mp3
+situation|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌsɪtʃ.uˈeɪ.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sit/situa/situation.mp3
+snow|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">snoʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sno/snow_/snow.mp3
+some|<span class="pron dpron"><span class="lab dlab">strong</span> /<span class="ipa dipa lpr-2 lpl-1">sʌm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/som/some_/some.mp3
+soon|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">suːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/soo/soon_/soon.mp3
+south|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">saʊθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sou/south/south.mp3
+space|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">speɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spa/space/space.mp3
+spelling|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈspel.ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spe/spell/spelling.mp3
+sport|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">spɔːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spo/sport/sport.mp3
+spring|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sprɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spr/sprin/spring.mp3
+star|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">stɑːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/star_/star.mp3
+statement|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsteɪt.mənt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/state/statement.mp3
+street|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">striːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/str/stree/street.mp3
+study|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈstʌd.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/stu/study/study.mp3
+subject|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsʌb.dʒekt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sub/subje/subject.mp3
+success|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">səkˈses</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/suc/succe/success.mp3
+sugar|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʃʊɡ.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sug/sugar/sugar.mp3
+supermarket|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsuː.pɚˌmɑːr.kɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sup/super/supermarket.mp3
+sure|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃʊr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/shore/shore.mp3
+sweater|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈswet̬.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/swe/sweat/sweater.mp3
+taxi|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtæk.si</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tax/taxi_/taxi.mp3
+teach|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tiːtʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tea/teach/teach.mp3
+telephone|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtel.ə.foʊn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tel/telep/telephone.mp3
+television|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtel.ə.vɪʒ.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tel/telev/television.mp3
+tennis|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈten.ɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74519.mp3
+test|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">test</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tes/test_/test.mp3
+theatre|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈθiː.ə.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74534.mp3
+thing|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">θɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thi/thing/thing.mp3
+ticket|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtɪk.ɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tic/ticke/ticket.mp3
+toilet|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtɔɪ.lət</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/toi/toile/toilet.mp3
+tomato|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">təˈmeɪ.t̬oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usb/usb03/usb03206.mp3
+tourist|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtʊr.ɪst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tou/touri/tourist.mp3
+town|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">taʊn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tow/town_/town.mp3
+train|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">treɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tra/train/train.mp3
+tree|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">triː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tre/tree_/tree.mp3
+trousers|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtraʊ.zɚz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tro/trous/trousers.mp3
+TRUE|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">truː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tru/true_/true.mp3
+umbrella|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʌmˈbrel.ə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/umb/umbre/umbrella.mp3
+uncle|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʌŋ.k<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/unc/uncle/uncle.mp3
+university|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌjuː.nəˈvɝː.sə.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/uni/unive/university.mp3
+upstairs|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʌpˈsterz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usu/usuph/usuphol014.mp3
+usually|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈjuː.ʒu.ə.li</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usu/usual/usually.mp3
+vacation|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">veɪˈkeɪ.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/vac/vacat/vacation.mp3
+vegetable|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈvedʒ.tə.b<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/veg/veget/vegetable.mp3
+video|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈvɪd.i.oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/vid/video/video.mp3
+walk|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɑːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wal/walk_/walk.mp3
+wall|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wal/wall_/wall.mp3
+watch|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɑːtʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wat/watch/watch.mp3
+water|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwɑː.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld2s094.mp3
+weather|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈweð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wea/weath/weather.mp3
+window|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwɪn.doʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/win/windo/window.mp3
+wonderful|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwʌn.dɚ.f<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/won/wonde/wonderful.mp3
+worker|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwɝː.kɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wor/worke/worker.mp3
+would|<span class="pron dpron"><span class="lab dlab">strong</span> /<span class="ipa dipa lpr-2 lpl-1">wʊd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/woo/wood_/wood.mp3
+write|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">raɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rig/right/right.mp3
+writing|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈraɪ.t̬ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75037.mp3
+year|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">jɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/y/yea/year_/year.mp3
+yesterday|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈjes.tɚ.deɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/y/yes/yeste/yesterday.mp3
+yourself|<span class="pron dpron"><span class="lab dlab">strong</span> /<span class="ipa dipa lpr-2 lpl-1">jʊrˈself</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/y/you/yours/yourself.mp3
+activity|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ækˈtɪv.ə.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus70/eus70064.mp3
+agree|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈɡriː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/agr/agree/agree.mp3
+always|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑːl.weɪz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/alw/alway/always.mp3
+amazing|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈmeɪ.zɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ama/amazi/amazing.mp3
+animal|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæn.ɪ.m<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ani/anima/animal.mp3
+arm|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɑːrm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/arm/arm__/arm.mp3
+autumn|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑː.t̬<span class="sp dsp">ə</span>m</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75494.mp3
+behind|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈhaɪnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/beh/behin/behind.mp3
+bicycle|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbaɪ.sə.k<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bic/bicyc/bicycle.mp3
+build|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪld</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bui/build/build.mp3
+club|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">klʌb</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/clu/club_/club.mp3
+common|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkɑː.mən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/com/commo/common.mp3
+complete|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kəmˈpliːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/com/compl/complete.mp3
+dear|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dea/dear_/dear.mp3
+father|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɑː.ðɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cdo/cdo03/cdo0318usfath1774.mp3
+flat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">flæt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fla/flat_/flat.mp3
+friendly|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfrend.li</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fri/frien/friendly.mp3
+future|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfjuː.tʃɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fut/futur/future.mp3
+hotel|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hoʊˈtel</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hot/hotel/hotel.mp3
+into|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɪn.tuː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/int/into_/into.mp3
+juice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒuːs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/jui/juice/juice.mp3
+list|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lɪst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lis/list_/list.mp3
+mouse|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">maʊs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mou/mouse/mouse.mp3
+online|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑːn.laɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/uso/usomn/usomniv005.mp3
+orange|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɔːr.ɪndʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75268.mp3
+paper|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpeɪ.pɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pap/paper/paper.mp3
+popular|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɑː.pjə.lɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pop/popul/popular.mp3
+practise|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpræk.tɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pra/pract/practice.mp3
+real|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈriː.əl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/real_/real.mp3
+relax|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɪˈlæks</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rel/relax/relax.mp3
+restaurant|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈres.tə.rɑːnt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/res/resta/restaurant.mp3
+snake|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sneɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sna/snake/snake.mp3
+station|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsteɪ.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/stati/station.mp3
+story|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈstɔːr.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sto/story/story.mp3
+traffic|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtræf.ɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tra/traff/traffic.mp3
+travel|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtræv.<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tra/trave/travel.mp3
+trip|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">trɪp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tri/trip_/trip.mp3
+type|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">taɪp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/typ/type_/type.mp3
+understand|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌʌn.dɚˈstænd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/und/under/understand.mp3
+wait|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">weɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wai/wait_/wait.mp3
+waiter|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈweɪ.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74909.mp3
+wine|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">waɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/win/wine_/wine.mp3
+work|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɝːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wor/work_/work.mp3
+young|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">jʌŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/y/you/young/young.mp3
+above|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈbʌv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/abo/above/above.mp3
+across|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈkrɑːs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/acr/acros/across.mp3
+add|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">æd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ad_/ad___/ad.mp3
+address|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæd.res</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus70/eus70074.mp3
+afraid|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈfreɪd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/afr/afrai/afraid.mp3
+after|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæf.tɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/aft/after/after.mp3
+again|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈɡen</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/aga/again/again.mp3
+air|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">er</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/air/air__/air.mp3
+airport|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈer.pɔːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usa/usair/usairfa014.mp3
+another|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈnʌð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ano/anoth/another.mp3
+apartment|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈpɑːrt.mənt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/apa/apart/apartment.mp3
+apple|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈæp.<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/app/apple/apple.mp3
+area|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈer.i.ə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/are/area_/area.mp3
+around|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈraʊnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/aro/aroun/around.mp3
+arrive|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈraɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/arr/arriv/arrive.mp3
+art|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɑːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/art/art__/art.mp3
+ask|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">æsk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/ask/ask__/ask.mp3
+away|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈweɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/awa/away_/away.mp3
+baby|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbeɪ.bi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bab/baby_/baby.mp3
+ball|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bal/ball_/ball.mp3
+band|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bænd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/ban/band_/band.mp3
+bath|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bæθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bat/bath_/bath.mp3
+beautiful|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbjuː.t̬ə.f<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus70/eus70469.mp3
+because|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈkʌz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cdo/cdo11/cdo1119usbeca0072.mp3
+become|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈkʌm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bec/becom/become.mp3
+bedroom|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbed.ruːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usb/usbed/usbedpo003.mp3
+before|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈfɔːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bef/befor/before.mp3
+begin|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈɡɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/beg/begin/begin.mp3
+believe|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈliːv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bel/belie/believe.mp3
+below|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪˈloʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bel/below/below.mp3
+best|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">best</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bes/best_/best.mp3
+bike|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">baɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bik/bike_/bike.mp3
+bill|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bil/bill_/bill.mp3
+bird|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɝːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bir/bird_/bird.mp3
+birthday|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɝːθ.deɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usb/usbir/usbirdl006.mp3
+black|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">blæk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bla/black/black.mp3
+blonde|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">blɑːnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/blo/blond/blond.mp3
+blue|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bluː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/ble/blew_/blew.mp3
+boat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">boʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/boa/boat_/boat.mp3
+body|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɑː.di</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bod/body_/body.mp3
+book|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bʊk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/boo/book_/book.mp3
+boot|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">buːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/boo/boot_/boot.mp3
+boring|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɔː.rɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bor/borin/boring.mp3
+born|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bɔːrn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bor/born_/born.mp3
+both|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">boʊθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bot/both_/both.mp3
+bread|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bred</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bre/bread/bread.mp3
+breakfast|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbrek.fəst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bre/break/breakfast.mp3
+bring|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">brɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bri/bring/bring.mp3
+brother|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbrʌð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bro/broth/brother.mp3
+busy|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbɪz.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bus/busy_/busy.mp3
+butter|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈbʌt̬.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/but/butte/butter.mp3
+carrot|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈker.ət</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/car/carat/carat.mp3
+cat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kæt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cat/cat__/cat.mp3
+centre|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsen.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus70/eus70754.mp3
+century|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsen.tʃ<span class="sp dsp">ə</span>r.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cen/centu/century.mp3
+chair|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃer</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cha/chair/chair.mp3
+change|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃeɪndʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cha/chang/change.mp3
+cheap|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃiːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/che/cheap/cheap.mp3
+chicken|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtʃɪk.ɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/chi/chick/chicken.mp3
+child|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tʃaɪld</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/chi/child/child.mp3
+city|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɪt̬.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cit/city_/city.mp3
+clean|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kliːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cle/clean/clean.mp3
+climb|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">klaɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cli/climb/climb.mp3
+close|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kloʊz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus70/eus70844.mp3
+coffee|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkɑː.fi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cof/coffe/coffee.mp3
+cold|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">koʊld</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/col/cold_/cold.mp3
+come|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kʌm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/com/come_/come.mp3
+concert|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkɑːn.sɚt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/con/conce/concert.mp3
+cook|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kʊk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/coo/cook_/cook.mp3
+cooking|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʊk.ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/coo/cooki/cooking.mp3
+correct|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kəˈrekt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cor/corre/correct.mp3
+cost|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kɑːst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71027.mp3
+country|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʌn.tri</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cou/count/country.mp3
+course|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kɔːrs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/coa/coars/coarse.mp3
+cousin|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkʌz.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cou/cousi/cousin.mp3
+cow|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kaʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cow/cow__/cow.mp3
+create|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kriˈeɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cre/creat/create.mp3
+cup|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kʌp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cup/cup__/cup.mp3
+cut|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kʌt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cut/cut__/cut.mp3
+dancer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdæn.sɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dan/dance/dancer.mp3
+dancing|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdæn.sɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cdo/cdo06/cdo0623usdanc0834.mp3
+dark|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɑːrk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dar/dark_/dark.mp3
+date|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">deɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dat/date_/date.mp3
+daughter|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɑː.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dau/daugh/daughter.mp3
+delicious|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈlɪʃ.əs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75556.mp3
+describe|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈskraɪb</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/des/descr/describe.mp3
+detail|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈteɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75596.mp3
+dish|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dis/dish_/dish.mp3
+down|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">daʊn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dow/down_/down.mp3
+draw|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">drɑː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71388.mp3
+drink|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">drɪŋk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dri/drink/drink.mp3
+drive|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">draɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dri/drive/drive.mp3
+driver|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdraɪ.vɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dri/drive/driver.mp3
+during|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdʊr.ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dur/durin/during.mp3
+ear|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/ear/ear__/ear.mp3
+early|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɝː.li</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/ear/early/early.mp3
+east|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">iːst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eas/east_/east.mp3
+easy|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈiː.zi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eas/easy_/easy.mp3
+eat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">iːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eat/eat__/eat.mp3
+eleven|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈlev.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75659.mp3
+end|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">end</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/end/end__/end.mp3
+enjoy|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪnˈdʒɔɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71552.mp3
+euro|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈjʊr.oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eur/euro_/euro.mp3
+even|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈiː.v<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/even_/even.mp3
+event|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪˈvent</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71680.mp3
+ever|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈev.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/ever_/ever.mp3
+every|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈev.ri</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/every/every.mp3
+everybody|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈev.riˌbɑː.di</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/every/everybody.mp3
+everyone|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈev.ri.wʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/every/everyone.mp3
+everything|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈev.ri.θɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eve/every/everything.mp3
+exciting|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪkˈsaɪ.t̬ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/exc/excit/exciting.mp3
+expensive|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪkˈspen.sɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/exp/expen/expensive.mp3
+extra|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈek.strə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/ext/extra/extra.mp3
+eye|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">aɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/a/aye/aye__/aye.mp3
+face|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">feɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fac/face_/face.mp3
+fact|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fækt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fac/fact_/fact.mp3
+fall|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fal/fall_/fall.mp3
+FALSE|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɑːls</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fal/false/false.mp3
+family|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfæm.<span class="sp dsp">ə</span>l.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fam/famil/family.mp3
+famous|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfeɪ.məs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fam/famou/famous.mp3
+fantastic|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fænˈtæs.tɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fan/fanta/fantastic.mp3
+farm|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɑːrm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/far/farm_/farm.mp3
+farmer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɑːr.mɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/far/farme/farmer.mp3
+fast|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fæst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fas/fast_/fast.mp3
+fat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fæt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fat/fat__/fat.mp3
+feel|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fiːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fee/feel_/feel.mp3
+feeling|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfiː.lɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fee/feeli/feeling_feel.mp3
+fifteen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌfɪfˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fif/fifte/fifteen.mp3
+fill|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fil/fill_/fill.mp3
+final|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfaɪ.n<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fin/final/final.mp3
+find|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">faɪnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fin/find_/find.mp3
+fine|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">faɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fin/fine_/fine.mp3
+fire|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">faɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fir/fire_/fire.mp3
+first|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɝːst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fir/first/first.mp3
+fish|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɪʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fis/fish_/fish.mp3
+flight|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">flaɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fli/fligh/flight.mp3
+floor|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">flɔːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/flo/floor/floor.mp3
+follow|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɑː.loʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fol/follo/follow.mp3
+food|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fuːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/foo/food_/food.mp3
+foot|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/foo/foot_/foot.mp3
+form|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɔːrm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/for/form_/form.mp3
+free|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">friː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fre/free_/free.mp3
+friend|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">frend</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fri/frien/friend.mp3
+from|<span class="pron dpron"><span class="lab dlab">strong</span> /<span class="ipa dipa lpr-2 lpl-1">frʌm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fro/from_/from.mp3
+full|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fʊl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/ful/full_/full.mp3
+fun|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fun/fun__/fun.mp3
+funny|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfʌn.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fun/funny/funny.mp3
+glass|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡlæs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gla/glass/glass.mp3
+good|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡʊd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/goo/good_/good.mp3
+goodbye|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡʊdˈbaɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72062.mp3
+grandfather|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɡræn.fɑː.ðɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gra/grand/grandfather.mp3
+grandmother|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɡræn.mʌð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gra/grand/grandmother.mp3
+green|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡriːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gre/green/green.mp3
+group|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡruːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gro/group/group.mp3
+grow|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡroʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gro/grow_/grow.mp3
+gym|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gym/gym__/gym.mp3
+half|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hæf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hal/half_/half.mp3
+hand|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hænd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/han/hand_/hand.mp3
+happen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhæp.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hap/happe/happen.mp3
+happy|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhæp.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hap/happy/happy.mp3
+hard|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hɑːrd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/har/hard_/hard.mp3
+hate|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">heɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hat/hate_/hate.mp3
+head|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hed</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hea/head_/head.mp3
+health|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">helθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hea/healt/health.mp3
+healthy|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhel.θi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hea/healt/healthy.mp3
+hear|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hea/hear_/hear.mp3
+high|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">haɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hi_/hi___/hi.mp3
+hobby|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhɑː.bi</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hob/hobby/hobby.mp3
+home|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hoʊm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hom/home_/home.mp3
+homework|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhoʊm.wɝːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/ush/ushol/usholly016.mp3
+hope|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hoʊp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hop/hope_/hope.mp3
+hot|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">hɑːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hot/hot__/hot.mp3
+hour|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">aʊr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hou/hour_/hour.mp3
+house|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">haʊs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hou/house/house.mp3
+hundred|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhʌn.drəd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hun/hundr/hundred.mp3
+hungry|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhʌŋ.ɡri</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hun/hungr/hungry.mp3
+husband|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhʌz.bənd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/hus/husba/husband.mp3
+ice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">aɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/ice/ice__/ice.mp3
+information|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌɪn.fɚˈmeɪ.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75806.mp3
+island|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈaɪ.lənd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/isl/islan/island.mp3
+jeans|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒiːnz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/jea/jeans/jeans.mp3
+job|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒɑːb</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/job/job__/job.mp3
+join|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒɔɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/joi/join_/join.mp3
+just|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dʒʌst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/j/jus/just_/just.mp3
+keep|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kiːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/k/kee/keep_/keep.mp3
+key|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kiː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/k/key/key__/key.mp3
+kind|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kaɪnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/k/kin/kind_/kind.mp3
+kitchen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkɪtʃ.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/k/kit/kitch/kitchen.mp3
+know|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">noʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73226.mp3
+land|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lænd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lan/land_/land.mp3
+large|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lɑːrdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lar/large/large.mp3
+last|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">læst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/las/last_/last.mp3
+late|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">leɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lat/late_/late.mp3
+later|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈleɪ.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld00791.mp3
+laugh|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">læf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lau/laugh/laugh.mp3
+learn|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lɝːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lea/learn/learn.mp3
+leave|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">liːv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lea/leave/leave.mp3
+lesson|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈles.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/les/lesse/lessen.mp3
+let|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">let</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/let/let__/let.mp3
+lie|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">laɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lie/lie__/lie.mp3
+light|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">laɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lig/light/light.mp3
+like|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">laɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lik/like_/like.mp3
+line|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">laɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lin/line_/line.mp3
+listen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈlɪs.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lis/liste/listen.mp3
+little|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈlɪt̬.<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lit/littl/little.mp3
+live|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/liv/live_/live_01_00.mp3
+long|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lɑːŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lon/long_/long.mp3
+look|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lʊk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/loo/look_/look.mp3
+lunch|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">lʌntʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/lun/lunch/lunch.mp3
+main|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">meɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72872.mp3
+make|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">meɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mak/make_/make.mp3
+map|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mæp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/map/map__/map.mp3
+married|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmer.id</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mar/marri/married.mp3
+match|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mætʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mat/match/match.mp3
+meal|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mɪəl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mea/meal_/meal.mp3
+mean|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">miːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mea/mean_/mean.mp3
+meaning|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmiː.nɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mea/meani/meaning.mp3
+meat|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">miːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mea/meat_/meat.mp3
+meet|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">miːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mea/meat_/meat.mp3
+member|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmem.bɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mem/membe/member.mp3
+menu|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmen.juː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/men/menu_/menu.mp3
+metre|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmiː.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72981.mp3
+midnight|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmɪd.naɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mid/midni/midnight.mp3
+mile|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">maɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mil/mile_/mile.mp3
+milk|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mɪlk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mil/milk_/milk.mp3
+million|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmɪl.jən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mil/milli/million.mp3
+minute|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmɪn.ɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73026.mp3
+miss|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mis/miss_/miss.mp3
+model|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmɑː.d<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mod/model/model.mp3
+modern|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmɑː.dɚn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mod/moder/modern.mp3
+moment|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmoʊ.mənt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mom/momen/moment.mp3
+money|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmʌn.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mon/money/money.mp3
+month|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mʌnθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mon/month/month.mp3
+most|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">moʊst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mos/most_/most.mp3
+mountain|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈmaʊn.t<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mou/mount/mountain.mp3
+name|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">neɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nam/name_/name.mp3
+near|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">nɪr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nea/near_/near.mp3
+negative|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈneɡ.ə.t̬ɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/neg/negat/negative.mp3
+never|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnev.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nev/never/never.mp3
+news|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">nuːz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/new/news_/news.mp3
+next|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">nekst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nex/next_/next.mp3
+nice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">naɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nic/nice_/nice.mp3
+night|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">naɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/k/kni/knigh/knight.mp3
+nineteen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌnaɪnˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nin/ninet/nineteen.mp3
+ninety|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnaɪn.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73218.mp3
+nobody|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnoʊ.bɑː.di</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nob/nobod/nobody.mp3
+nose|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">noʊz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/noe/noes_/noes.mp3
+note|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">noʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/not/note_/note.mp3
+nothing|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnʌθ.ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/not/nothi/nothing.mp3
+number|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈnʌm.bɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/num/numbe/number.mp3
+nurse|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">nɝːs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/n/nur/nurse/nurse.mp3
+o'clock|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">əˈklɑːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75077.mp3
+often|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɑːf.<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75181.mp3
+once|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wʌns</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75209.mp3
+only|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊn.li</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75217.mp3
+open|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊ.p<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75227.mp3
+out|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">aʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75457.mp3
+own|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">oʊn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75455.mp3
+page|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">peɪdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73394.mp3
+painting|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpeɪn.t̬ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pai/paint/painting.mp3
+pair|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">per</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pai/pair_/pair.mp3
+parent|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈper.<span class="sp dsp">ə</span>nt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/par/paren/parent.mp3
+park|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pɑːrk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/par/park_/park.mp3
+part|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pɑːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/par/part_/part.mp3
+past|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pæst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pas/past_/past.mp3
+pay|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">peɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pay/pay__/pay.mp3
+pen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pen</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pen/pen__/pen.mp3
+people|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpiː.p<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/peo/peopl/people.mp3
+period|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɪr.i.əd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73504.mp3
+person|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɝː.s<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/per/perso/person.mp3
+phone|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">foʊn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pho/phone/phone.mp3
+phrase|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">freɪz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/phr/phras/phrase.mp3
+place|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pleɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pla/place/place.mp3
+play|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pleɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pla/play_/play.mp3
+player|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpleɪ.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pla/playe/player.mp3
+policeman|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈliːs.mən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usp/uspol/uspolec002.mp3
+pool|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">puːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/poo/pool_/pool.mp3
+positive|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɑː.zə.t̬ɪv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73656.mp3
+post|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">poʊst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pos/post_/post.mp3
+pound|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">paʊnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pou/pound/pound.mp3
+prepare|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">prɪˈper</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pre/prepa/prepare.mp3
+present|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈprez.<span class="sp dsp">ə</span>nt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pre/prese/present_01_00.mp3
+pretty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈprɪt̬.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73704.mp3
+price|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">praɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pri/price/price.mp3
+probably|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈprɑː.bə.bli</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pro/proba/probably.mp3
+product|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈprɑː.dʌkt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pro/produ/product.mp3
+program|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈproʊ.ɡræm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pro/progr/program.mp3
+purple|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpɝː.p<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pur/purpl/purple.mp3
+put|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/put/put__/put.mp3
+quarter|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkwɔːr.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/q/qua/quart/quarter.mp3
+question|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkwes.tʃən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/q/que/quest/question.mp3
+quick|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kwɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/q/qui/quick/quick.mp3
+quickly|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkwɪk.li</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/q/qui/quick/quickly.mp3
+quiet|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈkwaɪ.ət</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/q/qui/quiet/quiet.mp3
+quite|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kwaɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/q/qui/quite/quite.mp3
+rain|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">reɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rai/rain_/rain.mp3
+read|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">riːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/read_/read.mp3
+reading|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈriː.dɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/readi/reading.mp3
+ready|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈred.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/ready/ready.mp3
+reason|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈriː.z<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/reaso/reason.mp3
+result|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɪˈzʌlt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/res/resul/result.mp3
+return|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɪˈtɝːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/ret/retur/return.mp3
+rice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">raɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/ric/rice_/rice.mp3
+rich|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɪtʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/ric/rich_/rich.mp3
+ride|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">raɪd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rid/ride_/ride.mp3
+right|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">raɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rig/right/right.mp3
+road|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">roʊd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/roa/road_/road.mp3
+routine|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ruːˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rou/routi/routine.mp3
+run|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/run/run__/run.mp3
+sad|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sæd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sad/sad__/sad.mp3
+school|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">skuːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sch/schoo/school.mp3
+sea|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">siː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/c__/c____/c.mp3
+see|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">siː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/c__/c____/c.mp3
+sell|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sel</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sel/sell_/sell.mp3
+send|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">send</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sen/send_/send.mp3
+share|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃer</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sha/share/share.mp3
+sheep|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃiːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/she/sheep/sheep.mp3
+shoe|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃuː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/shoe_/shoe.mp3
+shop|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃɑːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/shop_/shop.mp3
+shopping|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʃɑː.pɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/shopp/shopping.mp3
+short|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃɔːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/short/short.mp3
+show|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃoʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sho/show_/show.mp3
+similar|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɪm.ə.lɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sim/simil/similar.mp3
+singer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɪŋ.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sin/singe/singer.mp3
+sister|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɪs.tɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sis/siste/sister.mp3
+sit|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sit/sit__/sit.mp3
+skill|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">skɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/ski/skill/skill.mp3
+skirt|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">skɝːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/ski/skirt/skirt.mp3
+sleep|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sliːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sle/sleep/sleep.mp3
+slow|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sloʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/slo/slow_/slow.mp3
+small|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">smɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sma/small/small.mp3
+somebody|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsʌmˌbɑː.di</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/som/someb/somebody.mp3
+someone|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsʌm.wʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/som/someo/someone.mp3
+something|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsʌm.θɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/som/somet/something.mp3
+sometimes|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsʌm.taɪmz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74306.mp3
+song|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sɑːŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/son/song_/song.mp3
+sorry|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɔːr.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sor/sorry/sorry.mp3
+sound|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">saʊnd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sou/sound/sound.mp3
+soup|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">suːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sou/soup_/soup.mp3
+speak|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">spiːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spe/speak/speak.mp3
+special|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈspeʃ.<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spe/speci/special.mp3
+spell|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">spel</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spe/spell/spell.mp3
+spend|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">spend</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/spe/spend/spend.mp3
+stand|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">stænd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/stand/stand.mp3
+start|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">stɑːrt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/start/start.mp3
+stay|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">steɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/stay_/stay.mp3
+still|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">stɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sti/still/still.mp3
+stop|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">stɑːp</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sto/stop_/stop.mp3
+student|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈstuː.d<span class="sp dsp">ə</span>nt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/stu/stude/student.mp3
+style|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">staɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sty/style/style.mp3
+summer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsʌm.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sum/summe/summer.mp3
+sun|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/son/son__/son.mp3
+swim|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">swɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/swi/swim_/swim.mp3
+swimming|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈswɪm.ɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/swi/swimm/swimming.mp3
+table|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈteɪ.b<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tab/table/table.mp3
+take|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">teɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tak/take_/take.mp3
+talk|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tɑːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tal/talk_/talk.mp3
+tea|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tiː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/t__/t____/t.mp3
+teacher|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtiː.tʃɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tea/teach/teacher.mp3
+team|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tiːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tea/team_/team.mp3
+teenager|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtiːnˌeɪ.dʒɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tee/teena/teenager.mp3
+tell|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tel</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tel/tell_/tell.mp3
+terrible|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈter.ə.b<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/ter/terri/terrible.mp3
+text|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tekst</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tex/text_/text.mp3
+think|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">θɪŋk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thi/think/think.mp3
+third|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">θɝːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thi/third/third.mp3
+thirsty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈθɝː.sti</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thi/thirs/thirsty.mp3
+thousand|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈθaʊ.z<span class="sp dsp">ə</span>nd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tho/thous/thousand.mp3
+through|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">θruː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thr/threw/threw.mp3
+time|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">taɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thy/thyme/thyme.mp3
+tired|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">taɪrd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tir/tired/tired.mp3
+title|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtaɪ.t̬<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tit/title/title.mp3
+today|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">təˈdeɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tod/today/today.mp3
+together|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">təˈɡeð.ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tog/toget/together.mp3
+tomorrow|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">təˈmɔːr.oʊ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tom/tomor/tomorrow.mp3
+tonight|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">təˈnaɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/ton/tonig/tonight.mp3
+tooth|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tuːθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/too/tooth/tooth.mp3
+topic|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtɑː.pɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/top/topic/topic.mp3
+try|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">traɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/try/try__/try.mp3
+turn|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tɝːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tur/turn_/turn.mp3
+twelve|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">twelv</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/twe/twelv/twelve.mp3
+twice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">twaɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/twi/twice/twice.mp3
+under|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈʌn.dɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/und/under/under.mp3
+until|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ənˈtɪl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74757.mp3
+useful|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈjuːs.f<span class="sp dsp">ə</span>l</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/use/usefu/useful.mp3
+very|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈver.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/ver/very_/very.mp3
+village|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈvɪl.ɪdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/vil/villa/village.mp3
+visit|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈvɪz.ɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/vis/visit/visit.mp3
+visitor|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈvɪz.ɪ.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74872.mp3
+wake|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">weɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wak/wake_/wake.mp3
+want|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɑːnt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wan/want_/want.mp3
+warm|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɔːrm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/war/warm_/warm.mp3
+wash|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɑːʃ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/was/wash_/wash.mp3
+way|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">weɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/way/way__/way.mp3
+wear|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wer</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74948.mp3
+website|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwebˌsɑɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75996.mp3
+week|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wiːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wea/weak_/weak.mp3
+weekend|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwiːk.end</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usw/uswea/usweare018.mp3
+well|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wel</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wel/well_/well.mp3
+white|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">waɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/whi/white/white.mp3
+wife|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">waɪf</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wif/wife_/wife.mp3
+win|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɪn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/win/win__/win.mp3
+winter|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwɪn.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75004.mp3
+with|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɪð</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wit/with_/with.mp3
+without|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɪˈðaʊt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wit/witho/without.mp3
+woman|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwʊm.ən</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wom/woman/woman.mp3
+word|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɝːd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wor/word_/word.mp3
+world|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">wɝːld</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wor/world/world.mp3
+writer|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈraɪ.t̬ɚ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wri/write/writer.mp3
+yeah|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">jeə</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/y/yea/yeah_/yeah.mp3
+die|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">daɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/die/die__/die.mp3
+fly|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">flaɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fly/fly__/fly.mp3
+mum|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mʌm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/cal/cald4/cald4us1520.mp3
+thirty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈθɝː.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thi/thirt/thirty.mp3
+bed|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bed</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bed/bed__/bed.mp3
+brown|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">braʊn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bro/brown/brown.mp3
+cool|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kuːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/coo/cool_/cool.mp3
+dad|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dæd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dad/dad__/dad.mp3
+dirty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɝː.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dir/dirty/dirty.mp3
+eighteen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌeɪˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eig/eight/eighteen.mp3
+eighty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈeɪ.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus71/eus71457.mp3
+far|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɑːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/far/far__/far.mp3
+fifth|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɪfθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fif/fifth/fifth.mp3
+fifty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɪf.ti</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fif/fifty/fifty.mp3
+forty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈfɔːr.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75758.mp3
+fourteen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌfɔːrˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/fou/fourt/fourteen.mp3
+fourth|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">fɔːrθ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/f/for/forth/forth.mp3
+girl|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡɝːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gir/girl_/girl.mp3
+great|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡreɪt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gra/grate/grate.mp3
+grey|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɡreɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/g/gra/gray_/gray.mp3
+lose|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">luːz</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/l/los/lose_/lose.mp3
+man|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mæn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72888.mp3
+more|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">mɔːr</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mor/more_/more.mp3
+pink|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pɪŋk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pin/pink_/pink.mp3
+red|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">red</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/read_/read_read.mp3
+seventeen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌsev.<span class="sp dsp">ə</span>nˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sev/seven/seventeen.mp3
+seventy|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsev.<span class="sp dsp">ə</span>n.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74181.mp3
+sick|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sɪk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sic/sic__/sic.mp3
+sing|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sɪŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sin/sing_/sing.mp3
+sixteen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌsɪkˈstiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/six/sixte/sixteen.mp3
+sixty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsɪk.sti</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/six/sixty/sixty.mp3
+son|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">sʌn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/son/son__/son.mp3
+tall|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">tɑːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/tal/tall_/tall.mp3
+thirteen|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">θɝːˈtiːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thi/thirt/thirteen.mp3
+twenty|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈtwen.t̬i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74663.mp3
+wrong|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">rɑːŋ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wro/wrong/wrong.mp3
+blog|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">blɑːɡ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/ca2/ca2us/ca2us019.mp3
+clock|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">klɑːk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/clo/clock/clock.mp3
+description|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">dɪˈskrɪp.ʃ<span class="sp dsp">ə</span>n</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/des/descr/description.mp3
+difference|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈdɪf.ɚ.<span class="sp dsp">ə</span>ns</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/d/dif/diffe/difference.mp3
+interview|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈɪn.t̬ɚ.vjuː</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus72/eus72560.mp3
+magazine|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˌmæɡ.əˈziːn</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/m/mag/magaz/magazine.mp3
+practice|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈpræk.tɪs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/p/pra/pract/practice.mp3
+science|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsaɪ.əns</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/sci/scien/science.mp3
+rule|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ruːl</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/r/rul/rule_/rule.mp3
+sentence|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈsen.təns</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74155.mp3
+shirt|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ʃɝːt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/s/shi/shirt/shirt.mp3
+card|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">kɑːrd</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/c/car/card_/card.mp3
+history|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈhɪs.t̬ɚ.i</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/h/his/histo/history.mp3
+important|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ɪmˈpɔːr.t<span class="sp dsp">ə</span>nt</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/i/imp/impor/important.mp3
+back|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">bæk</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/b/bac/back_/back.mp3

@@ -3,33 +3,28 @@ import path from 'path';
 import fetch from 'node-fetch';
 import { JSDOM } from 'jsdom';
 
-// Đường dẫn tới file list.txt và output.txt
 const filePath = path.join(process.cwd(), 'list.txt');
 const outputFilePath = path.join(process.cwd(), 'output.txt');
+const proxyUrl = 'http://localhost:3000/proxy?url=';
+const baseUrl = 'https://dictionary.cambridge.org/vi/dictionary/english/';
+const maxAttempts = 10;
+const batchSize = 100;
 
-// Hàm xử lý mỗi từ từ list.txt
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
 async function processWord(queryWord) {
-    const proxyUrl = 'http://localhost:3000/proxy?url='; // Thay thế bằng URL proxy của bạn nếu có
-    const url = `https://dictionary.cambridge.org/vi/dictionary/english/${queryWord.trim()}`;
-    let attempts = 0;
-    const maxAttempts = 10; // Số lần thử tối đa
+    const url = `${baseUrl}${encodeURIComponent(queryWord.trim())}`;
 
-    while (attempts < maxAttempts) {
+    for (let attempts = 1; attempts <= maxAttempts; attempts++) {
         try {
-            attempts += 1;
-            const response = await fetch(proxyUrl + encodeURIComponent(url));
-            
+            const response = await fetch(proxyUrl + url);
             if (!response.ok) {
-                console.error(`Thử lần ${attempts} thất bại cho từ "${queryWord}".`);
+                console.error(`Attempt ${attempts} failed for "${queryWord}".`);
+                await delay(2000);  // Chờ 2 giây trước khi thử lại
                 continue;
             }
 
-            const htmlContent = await response.text();
-
-            // Sử dụng JSDOM để phân tích HTML trong môi trường Node.js
-            const dom = new JSDOM(htmlContent);
-            const document = dom.window.document;
-
+            const document = new JSDOM(await response.text()).window.document;
             const phoneticMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i > span.pron.dpron')).map(e => e.outerHTML.trim());
             const phonetic = phoneticMatch.length > 0 ? phoneticMatch[0] : 'N/A';
 
@@ -38,44 +33,30 @@ async function processWord(queryWord) {
 
             return `${queryWord}|${phonetic}|${usAudio}`;
         } catch (error) {
-            console.error(`Lỗi khi thử lần ${attempts} cho từ "${queryWord}":`, error);
+            console.error(`Error on attempt ${attempts} for "${queryWord}":`, error);
+            await delay(2000);  // Chờ 2 giây trước khi thử lại
         }
     }
 
     return `${queryWord}|N/A|N/A`;
 }
 
-// Hàm để chạy các promises với giới hạn song song
 async function processInBatches(words, batchSize) {
     const results = [];
     for (let i = 0; i < words.length; i += batchSize) {
-        const batch = words.slice(i, i + batchSize).map(processWord);
-        const batchResults = await Promise.all(batch);
-        results.push(...batchResults);
+        results.push(...await Promise.all(words.slice(i, i + batchSize).map(processWord)));
     }
     return results;
 }
 
-// Đọc file list.txt và xử lý từng từ
 fs.readFile(filePath, 'utf8', async (err, data) => {
-    if (err) {
-        console.error('Lỗi khi đọc file:', err);
-        return;
-    }
+    if (err) return console.error('Error reading file:', err);
 
-    // Tách file thành các dòng và xử lý mỗi dòng như một từ
-    const lines = data.split(/\r?\n/).map(line => line.trim()).filter(queryWord => queryWord);
+    const words = data.split(/\r?\n/).filter(Boolean);
+    const results = await processInBatches(words, batchSize);
 
-    // Giới hạn số lượng từ xử lý đồng thời
-    const batchSize = 100; // Số lượng link tối đa xử lý mỗi lần
-    const results = await processInBatches(lines, batchSize);
-
-    // Ghi tất cả kết quả vào file output.txt
     fs.writeFile(outputFilePath, results.join('\n'), (writeErr) => {
-        if (writeErr) {
-            console.error('Lỗi khi ghi file:', writeErr);
-        } else {
-            console.log('Kết quả đã được ghi vào output.txt');
-        }
+        if (writeErr) return console.error('Error writing file:', writeErr);
+        console.log('Results written to output.txt');
     });
 });
