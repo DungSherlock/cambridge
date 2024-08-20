@@ -1,1 +1,5 @@
-fend
+time
+volume
+wage
+way
+weakness

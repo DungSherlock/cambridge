@@ -1,1 +1,5 @@
-fend|undefined|https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld00463.mp3
+time|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">taɪm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/t/thy/thyme/thyme.mp3
+volume|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈvɑːl.juːm</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/v/vol/volum/volume.mp3
+wage|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">weɪdʒ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/wag/wage_/wage.mp3
+way|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">weɪ</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/w/way/way__/way.mp3
+weakness|<span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈwiːk.nəs</span>/</span>|https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus74/eus74946.mp3

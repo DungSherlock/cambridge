@@ -9,7 +9,7 @@ const outputFilePath = path.join(process.cwd(), 'output.txt');
 
 // Hàm xử lý mỗi từ từ list.txt
 async function processWord(queryWord) {
-    const proxyUrl = 'https://proxy-server-self-six.vercel.app/proxy?url='; // Thay thế bằng URL proxy của bạn nếu có
+    const proxyUrl = 'http://localhost:3000/proxy?url='; // Thay thế bằng URL proxy của bạn nếu có
     const url = `https://dictionary.cambridge.org/vi/dictionary/english/${queryWord.trim()}`;
 
     try {
