@@ -1,762 +1,3803 @@
-egg
-article
-action
-actor
-actress
+acquaintance
 adult
-advice
-afternoon
-angry
-answer
-anyone
-anything
-artist
 aunt
-back
-bag
-banana
-bank
-bathroom
-beach
-beginning
-better
-between
-bored
-bottle
-box
-boyfriend
-break
-building
-business
-cafe
-cake
-call
-camera
-capital
-career
-carry
-cent
-chart
-check
-cheese
-chocolate
-choose
-cinema
-classroom
-clothes
-coat
-college
-colour
-company
-compare
-computer
-conversation
-cream
-culture
-customer
-dance
-dangerous
-decide
-design
-desk
-dialogue
-dictionary
-diet
-different
-difficult
-dinner
-discuss
-doctor
-dog
-dollar
-door
-downstairs
-dress
-elephant
-email
-enough
-evening
-exam
-example
-excited
-exercise
-explain
-favourite
-festival
-film
-finish
-flower
-football
-forget
-front
-fruit
-game
-garden
-geography
-girlfriend
-give
-grandparent
-guess
-guitar
-hair
-hat
-hello
-help
-holiday
-horse
-hospital
-however
-idea
-imagine
-improve
-include
-interest
-interested
-interesting
-internet
-introduce
-jacket
-journey
-kilometer
-language
-left
-leg
-letter
-library
-life
-lion
-local
-love
-machine
-many
-maybe
-meeting
-message
-mistake
-morning
-mother
-mouth
-move
-movie
-much
-museum
-music
-natural
-need
-neighbour
-newspaper
-north
-object
-off
-office
-onion
-opinion
-opposite
-order
-other
-outside
-over
-paint
-paragraph
-partner
-party
-passport
-pencil
-pepper
-perfect
-personal
-photo
-photograph
-piano
-picture
-piece
-pig
-plan
-plant
-please
-point
-police
-poor
-possible
-potato
-prefer
-problem
-project
-radio
-reader
-really
-remember
-report
-river
-room
-salad
-salt
-same
-sandwich
-scientist
-second
-should
-shower
-situation
-snow
-some
-soon
-south
-space
-spelling
-sport
-spring
-star
-statement
-street
-study
-subject
-success
-sugar
-supermarket
-sure
-sweater
-taxi
-teach
-telephone
-television
-tennis
-test
-theatre
-thing
-ticket
-toilet
-tomato
-tourist
-town
-train
-tree
-trousers
-TRUE
-umbrella
-uncle
-university
-upstairs
-usually
-vacation
-vegetable
-video
-walk
-wall
-watch
-water
-weather
-window
-wonderful
-worker
-would
-write
-writing
-year
-yesterday
-yourself
-activity
-agree
-always
-amazing
-animal
-arm
-autumn
-behind
-bicycle
-build
-club
-common
-complete
-dear
-father
-flat
-friendly
-future
-hotel
-into
-juice
-list
-mouse
-online
-orange
-paper
-popular
-practise
-real
-relax
-restaurant
-snake
-station
-story
-traffic
-travel
-trip
-type
-understand
-wait
-waiter
-wine
-work
-young
-above
-across
-add
-address
-afraid
-after
-again
-air
-airport
-another
-apartment
-apple
-area
-around
-arrive
-art
-ask
-away
 baby
-ball
-band
-bath
-beautiful
-because
-become
-bedroom
-before
-begin
-believe
-below
-best
-bike
-bill
-bird
-birthday
-black
-blonde
-blue
-boat
-body
-book
-boot
-boring
-born
-both
-bread
-breakfast
-bring
+bachelor
+bride
 brother
-busy
-butter
-carrot
-cat
-centre
-century
-chair
-change
-cheap
-chicken
-child
-city
-clean
-climb
-close
-coffee
-cold
-come
-concert
-cook
-cooking
-correct
-cost
-country
-course
 cousin
-cow
-create
-cup
-cut
-dancer
-dancing
-dark
-date
 daughter
-delicious
-describe
-detail
-dish
-down
-draw
-drink
-drive
-driver
-during
-ear
-early
-east
-easy
-eat
-eleven
-end
-enjoy
-euro
-even
-event
-ever
-every
-everybody
-everyone
-everything
-exciting
-expensive
-extra
-eye
-face
-fact
-fall
-FALSE
-family
-famous
-fantastic
-farm
-farmer
-fast
-fat
-feel
-feeling
-fifteen
-fill
-final
-find
-fine
-fire
-first
-fish
-flight
-floor
-follow
-food
-foot
-form
-free
+divorced
+father
+father-in-law
 friend
-from
-full
-fun
-funny
-glass
-good
-goodbye
+granddaughter
 grandfather
 grandmother
-green
-group
-grow
-gym
-half
-hand
-happen
-happy
-hard
-hate
-head
-health
-healthy
-hear
-high
-hobby
-home
-homework
-hope
-hot
-hour
-house
-hundred
-hungry
+grandson
+honeymoon
 husband
-ice
-information
-island
-jeans
+married
+mother
+mother-in-law
+nephew
+niece
+only child
+orphan
+parents
+relative
+sister
+son
+son-in-law
+teenager
+toddler
+twins
+uncle
+widow
+wife
+name
+family
+child
+woman
+girl
+boy
+man
+couple
+children
+groom
+friendship
+gender
+young man
+old man
+old woman
+last name
+infant
+be born
+best friend
+full name
+ex-girlfriend
+ex-boyfriend
+girlfriend
+boyfriend
+retired
+lover
+grow up
+senior
+grown-up
+grandchildren
+step mother
+step father
+middle-aged
+newlyweds
+get married
+mistress
+divorce
+generation
+family tree
+family reunion
+close relative
+distant relative
+guardian
+pal
+elderly
+golden wedding
+adultery
+schedule
+duty
+assistant
+director
+employee
+secretary
+worker
+work
 job
-join
-just
-keep
-key
+reference
+manager
+employer
+staff
+position
+hire
+relevant
+cv
+promotion
+responsibilities
+introduce
+compare
+decline
+chairman
+achievement
+boss
+career
+meeting
+office
+skills
+apply
+earn
+bonus
+notice
+offer
+owner
+salary
+benefits
+candidate
+colleague
+full-time
+jobseeker
+request
+part-time
+profession
+sponsor
+trainee
+vacancy
+layoff
+strike
+resign
+dismiss
+cover letter
+department
+income tax
+freelancer
+job application
+job interview
+low pay
+lunch time
+managing director
+occupation
+overtime
+pay rise
+perk
+professional
+retirement
+selection
+self-employed
+fill out
+unemployment
+volunteer
+well-paid
+work experience
+working hours
+workload
+workplace
+classifieds
+challenge
+human resources
+commute
+apprenticeship
+daily routine
+educational background
+job bank
+hourly wage
+job fair
+minimum wage
+holiday pay
+holiday application
+nine-to-five job
+out of work
+previous experience
+shift work
+sick leave
+skilled worker
+get a rise
+look for a job
+reject an offer
+trade union
+training course
+travel expenses
+career ladder
+probation
+team spirit
+work abroad
+wage cut
+redundant
+temporary position
+earn one's living
+make an appointment
+deductions
+division of labour
+fringe benefits
+gross wage
+letter of resignation
+maternity leave
+net wage
+social security
+period of notice
+private sector
+public sector
+reason for leaving
+run a firm
+take a day off
+turnover of staff
+working conditions
+market
+representative
+manufacturer
+reputation
+sale
+insurance
+goal
+profit
+tax
+debt
+equipment
+currency
+revenue
+costs
+solve the problem
+research
+raise capital
+acquisition
+fat cat
+luck of the draw
+top dog
+an ace up a sleeve
+cash cow
+capital
+income
+business trip
+agency
+budget
+business
+client
+company
+contract
+deal
+goods
+order
+percent
+price
+product
+service
+task
+demand
+export
+import
+loss
+accounting
+advertise
+agreement
+brand
+commission
+enterprise
+investment
+licence
+management
+parties
+property
+share
+trade
+entrepreneur
+survey
+supply
+borrow
+lend
+associate
+bankruptcy
+competitor
+consumer
+inventory
+monopoly
+trend
+annual turnover
+auction
+audit services
+bank account
+bank statement
+bargain
+bond
+business card
+calculation
+chequebook
+credit history
+customer services
+distributor
+facilities
+interest rate
+real estate
+retail
+shareholder
+supplier
+transport company
+warehouse
+wholesale
+estimate
+inflation
+report
+bank loan
+conference hall
+customs declaration
+economic recession
+labour costs
+limited company
+multinational company
+outsourcing
+production site
+quality control
+raw materials
+rip-off
+sales figures
+stock exchange
+subsidiary
+tax cuts
+take the minutes
+legal address
+in the black
+blank cheque
+blue chip company
+be in the red
+carve out a niche
+corner the market
+cutting edge
+eager beaver
+art
+article
+bell
+biology
+bookshelf
+botany
+break
+certificate
+chemistry
+classroom
+copy-book
+curriculum
+desk
+diploma
+economics
+education
+foreign languages
+foreign literature
+geography
+geology
+graduate
+homework
+lecturer
+lesson
+narrator
+overhead projector
+page
+pen
+pencil
+physical training
+physics
+picture
+psychology
+publisher
+qualification
+quiz
+religious education
+retake an exam
+schoolboy
+schoolgirl
+science
+sociology
+student
+subject
+teacher
+technology
+term
+test
+undergraduate
+professor
+mark
+study
+college
+course
+exam
+finals
+lab
+maths
+mistake
+notes
+rule
+school
+fail
+pass
+word
+essay
+cheat
+tutor
+assignment
+coursework
+deadline
+dictionary
+exercise
+faculty
+grant
+handout
+kindergarten
+presentation
+seminar
+textbook
+tutorials
+whiteboard
+educate
+campus
+thesis
+to major
+counsellor
+syllabus
+academic degree
+applied sciences
+attendance
+bachelor
+computer science
+distance learning
+elementary school
+high school
+higher education
+humanities
+law school
+medical school
+online course
+postgraduate
+private lesson
+report card
+scholarship
+school year
+student loan
+teaching assistant
+teach-yourself book
+go to school
+skip classes
+tuition fees
+literacy
+academic career
+admission requirements
+admission date
+alumni
+boarding school
+compulsory education
+educational system
+further education
+graduation ceremony
+illiterate
+intensive course
+interdisciplinary
+MBA
+Ministry of Education
+prospective student
+research facilities
+student union
+teacher training
+deliver a lecture
+do research
+drop out
+fall behind
+learn by heart
+vocational training
+nasty
+dangerous
+ambitious
+appealing
+assertive
+audacious
+awkward
+behavior
+blockhead
+boastful
+calm
+charitable
+cheerful
+clever
+clumsy
+compelling
+conceited
+conscientious
+consistent
+coward
+cruel
+cultured
+cunning
+docile
+double-faced
+eloquent
+faithful
+fearful
+frank
+generous
+gentle
+greedy
+haughty
+honest
+hot-tempered
+humour
+ill-mannered
+impudent
+jealous
+lazy
+liar
+light-minded
+loyal
+modest
+neat
+outstanding
+persistent
+persuasive
+polite
+punctual
+reasonable
+respectful
+rude
+selfish
+sentimental
+shy
+sleepyhead
+sloven
+sluggish
+sly
+smart
+sophisticated
+stingy
+tactful
+temper
+touchy
+trait
+trusting
+unobtrusive
+versatile
+weak-willed
+wise
+witty
 kind
+serious
+active
+silly
+proud
+evil
+loving
+funny
+strict
+quiet
+lucky
+brave
+aggressive
+friendly
+caring
+wicked
+creative
+curious
+nervous
+impatient
+lonely
+optimistic
+careful
+charming
+pessimistic
+weird
+stupid
+helpful
+energetic
+carefree
+thrifty
+hilarious
+attentive
+hostile
+arrogant
+exciting
+sincere
+skillful
+reliable
+independent
+unpleasant
+messy
+sociable
+responsible
+lively
+confident
+humble
+mature
+tolerant
+intelligent
+eager
+successful
+sensitive
+thoughtful
+sneaky
+blunt
+easy-going
+daring
+grumpy
+sensible
+hysterical
+affectionate
+deceitful
+servile
+self-important
+distrustful
+adventurous
+courageous
+trustworthy
+decisive
+imaginative
+narcissistic
+compassionate
+hard-working
+demanding
+good-tempered
+stubborn
+broad-minded
+bossy
+brainy
+introverted
+cheeky
+pushy
+extroverted
+goody-goody
+chatty
+nosy
+armchair critic
+quarrelsome
+gregarious
+fuddy-duddy
+couch potato
+character flaw
+down-to-earth
+garrulous
+irascible
+hideous
+even-tempered
+fastidious
+ferocious
+attractive
+envious
+mood
+relaxed
+awful
+happy
+love
+fantastic
+hungry
+sad
+glad
+angry
+mad
+bored
+sleepy
+tired
+helpless
+excited
+upset
+enthusiastic
+worried
+pleased
+interested
+afraid
+stressed
+hate
+impressed
+hopeful
+disappointed
+surprised
+shocked
+grateful
+positive
+hopeless
+indifferent
+uneasy
+worthless
+thankful
+delighted
+depressed
+tempted
+scared
+thirsty
+exhausted
+frightened
+dissatisfied
+miserable
+uncertain
+uncomfortable
+concerned
+cheated
+despair
+suspicious
+ashamed
+joyful
+frustrated
+irritated
+sarcastic
+skeptical
+embarrassed
+doubtful
+assured
+humiliated
+disgusted
+wonderful
+euphoria
+apathetic
+serene
+neglected
+inspired
+indignant
+exasperated
+terrified
+pensive
+insecure
+astonished
+ecstatic
+anxious
+discouraged
+puzzled
+offended
+enraged
+perplexed
+relieved
+disoriented
+resigned
+homesick
+heartbroken
+enthralled
+morose
+fish out of water
+guilty pleasure
+hard as nails
+head over heels in love
+lump in one's throat
+have a soft spot
+in seventh heaven
+kidney
+nail
+ankle
+back
+belly
+bladder
+blood
+bone
+brain
+buttocks
+cheek
+chest
+chin
+ear
+elbow
+eye
+eyebrow
+eyelash
+eyelid
+face
+finger
+foot
+forearm
+forehead
+hair
+hand
+head
+heart
+heel
+index finger
+jaw
+joint
+knee
+leg
+lip
+little finger
+liver
+lungs
+middle finger
+mouth
+muscle
+neck
+nose
+nostril
+palm
+pancreas
+ring finger
+shoulder
+skin
+skull
+stomach
+throat
+thumb
+toe
+tongue
+tooth
+blood vessel
+waist
+wrist
+arm
+body
+nerve
+hip
+rib
+spine
+biceps
+breast
+vein
+appendix
+artery
+flank
+genitals
+intestine
+skeleton
+Adam's apple
+bronchus
+cheekbone
+digestive system
+immune system
+ligament
+optic nerve
+respiratory system
+tendon
+trachea
+bathroom
+key
+security guard
+bathtub
+bed
+bedspread
+blanket
+blinds
+chair
+freezer
+chest of drawers
+cupboard
+dishwasher
+mirror
+mixer
+oven
+pillow
+shower
+shower curtain
+sink
+table
+toilet
+floor
+ground floor
+elevator
+duster
+balcony
+curtain
+room
+tenant
+door
+fridge
+house
 kitchen
-know
-land
+roof
+sheet
+shelf
+sofa
+towel
+window
+wall
+carpet
+ceiling
+stairs
+stove
+apartment
+armchair
+basement
+bedroom
+bookcase
+furniture
+handle
+lobby
+lounge
+microwave
+switch
+wallpaper
+yard
+socket
+leak
+pillowslip
+attic
+bedclothes
+chandelier
+coat rack
+coffee maker
+coffee table
+dining room
+doorbell
+doormat
+electric cooker
+fence
+fireplace
+garbage can
+gas cooker
+light bulb
+living room
+plug
+porch
+table lamp
+washing machine
+washing powder
+water closet
+air conditioner
+cellar
+guest room
+mailbox
+renovations
+move in
+move out
+top floor
+utilities
+chimney
+block of flats
+central heating
+electricity meter
+flight of stairs
+ironing board
+landlord
+parking lot
+private property
+rocking chair
+suburb
+vacuum cleaner
+bedside table
+burglar alarm
+fully furnished
+lawnmower
+security deposit
+sewerage
+sliding door
+smoke detector
+clogged up
+unclog
+utility room
+water heater
+window sill
+wicket gate
+highway
+bar
+bench
+bridge
+cafe
+cathedral
+church
+circus
+concert hall
+fire station
+mosque
+museum
+park
+parking meter
+pavement
+pedestrian
+restaurant
+road
+stadium
+street
+street vendor
+synagogue
+traffic
+traffic jam
+zoo
+dump
+temple
+hotel
+subway
+crowded
+city
+castle
+palace
+station
+town
+avenue
+jail
+tunnel
+building
+cemetery
+alley
+downtown
+lively
+pizzeria
+playground
+pub
+skyscraper
+motel
+boulevard
+bustling
+bystreet
+intersection
+lane
+turnpike
+art gallery
+business district
+city hall
+city map
+embankment
+metropolis
+night life
+office building
+outskirts
+pedestrian area
+phone box
+photo studio
+police station
+public transport
+residential district
+rush hour
+zebra crossing
+dead end
+estate agency
+high rise
+industrial zone
+taxi rank
+advertising poster
+bicycle path
+flea market
+public space
+railroad track
+refinery
+shabby
+slums
+sprawling city
+come to a standstill
+discount
+gift shop
+counter
+bakery
+boutique
+department store
+hairdresser
+mall
+pharmacy
+shop
+supermarket
+perfume
+shop assistant
+fair
+change
+bill
+basket
+size
+wallet
+dealer
+label
+receipt
+bookstore
+butcher's
+checkout
+cosmetics
+coupon
+electronics
+exchange
+florist's
+hypermarket
+merchant
+scales
+warranty
+cashier
+barcode
+cashback
+complaint
+second-hand
+self-service
+beauty salon
+customer service
+dairy products
+fitting room
+food market
+greengrocer's
+in stock
+out of stock
+pet food
+price tag
+shopping cart
+sporting goods
+stationery
+summer collection
+toy store
+give change
+take back
+advertising campaign
+chain store
+corner shop
+duty free shop
+farmer's market
+gift wrap
+household products
+membership card
+online shopping
+pay by card
+pay in cash
+refund policy
+retail store
+sell out
+shop around
+shopaholic
+upmarket shop
+snap up
+hard sell
+run up a bill
+buy a pig in a poke
+pay one's way
+shopping spree
+outlet mall
+overprice
+bargain hunting
+unbeatable prices
+wholesale store
+hood
+cap
+blouse
+boots
+bra
+checked
+coat
+collar
+cotton
+dress
+evening gown
+flowery
+fur
+fur coat
+gloves
+hat
+jacket
+jeans
+leather
+mittens
+nightdress
+nylon
+panties
+pants
+pocket
+raincoat
+sandals
+scarf
+shirt
+shoes
+shorts
+silk
+skirt
+sleeve
+sneakers
+socks
+striped
+suit
+sweater
+swimming trunks
+t-shirt
+tie
+tights
+tuxedo
+underwear
+wool
+ring
+wear
+backpack
+belt
+glasses
+pajamas
+boxers
+bracelet
+fashion
+handbag
+sweatshirt
+swimsuit
+zip
+umbrella
+tight
+hoodie
+outerwear
+shoelaces
+casual wear
+come off
+do up
+dress up
+earrings
+get dressed
+lace up
+necklace
+put on
+seam
+sole
+take off
+uniform
+waist coat
+waterproof
+winter clothing
+workwear
+trendy
+braces
+cuff
+fastener
+handkerchief
+apparel
+baggy
+close-fitting
+dressed to kill
+fashion designer
+fit like a glove
+flip flops
+hand-me-downs
+loose
+old-fashioned
+polka-dotted
+scruffy
+shoe polish
+well-dressed
+tartan
+starter
+bottle
+bowl
+butter dish
+cup
+fork
+jug
+knife
+napkin
+pepper shaker
+salt shaker
+saucer
+tray
+spoon
+sugar bowl
+tablecloth
+teaspoon
+bitter
+breakfast
+dessert
+dinner
+lunch
+raw
+roast
+snack
+sour
+spicy
+sweet
+plate
+chef
+waiter
+serve
+menu
+food
+taste
+piece
+dish
+tip
+soup
+slice
+bistro
+appetite
+vegeterian
+toothpick
+boiled
+fried
+grilled
+baked
+chilled
+stewed
+smoked
+healthy
+vitamin
+mug
+spill
+be on a diet
+wine list
+book a table
+pay the bill
+main course
+side dish
+in the corner
+near the window
+ice cube
+mouth watering
+Greek salad
+Caesar salad
+chicken wings
+meatloaf
+mashed potatoes
+cheesecake
+catering
+Enjoy your meal!
+aftertaste
+tearoom
+fast food restaurant
+self-service cafe
+eat out
+today's specials
+cutlery
+halal
+kosher
+heat up
+keep the change
+house specialty
+low-calorie meals
+doggie bag
+wine and dine
+go dutch
+apricot
+asparagus
+banana
+brussels sprouts
+butter
+cabbage
+cake
+carrot
+cauliflower
+celery
+cheese
+chicken
+chocolate
+cucumber
+flour
+garlic
+ginger
+gooseberry
+grapefruit
+ham
+herring
+honey
+jam
+lemon
+lobster
+meat
+mushroom
+onion
+orange
+oyster
+parsley
+peach
+peanut
+pear
+pie
+pike
+pineapple
+plum
+pork
+potato
+raspberry
+salmon
+sour cream
+strawberry
+sugar
+tomato
+trout
+turkey
+veal
+walnut
+watermelon
+lamb
+olive
+tea
+coffee
+egg
+fish
+bread
+salt
+rice
+milk
+water
+wine
+juice
+apple
+pea
+yogurt
+beef
+tuna
+sardine
+noodles
+cornflakes
+beer
+vegetable
+pumpkin
+lettuce
+beans
+fruit
+grapes
+ice-cream
+biscuits
+prawn
+almond
+pasta
+squid
+caviar
+sunflower oil
+soft drink
+champagne
+beetroot
+aubergine
+turnip
+dill
+spinach
+kidney beans
+sweet cherry
+melon
+greens
+raisin
+cinnamon
+sesame
+bay leaf
+spice
+mince
+tinned food
+redcurrant
+blackberry
+blueberry
+hazelnut
+pistachios
+confectionary
+horseradish
+condiment
+vinegar
+mackerel
+ticket
+cinema
+theatre
+seat
+actor
+actress
+adventure film
+backstage
+cameraman
+cartoon
+cast
+comedy
+drama
+episode
+film
+musical
+producer
+rehearsal
+row
+science fiction film
+script
+stage
+supporting role
+thriller
+usher
+western
+ballet
+opera
+film director
+show
+tour
+role
+camera
+remake
+performance
+audience
+applause
+soundtrack
+subtitles
+review
+award
+audition
+romance
+horror
+documentary
+lighting
+sequel
+spectator
+action film
+playbill
+binoculars
+stuntmen
+shoot a film
+special effects
+cult film
+flop
+movie industry
+violent scene
+film crew
+film set
+fictional film
+silent film
+masterpiece
+dubbed
+entertainment
+dress circle
+minor character
+lead role
+walk-ons
+voice-over
+oscar-winning
+low-budget film
+slow-motion
+make-up artist
+conductor
+fan
+music
+accordion
+album
+bagpipe
+band
+baton
+cello
+clarinet
+concert
+cymbals
+drum
+flute
+grand piano
+guitar
+harp
+oboe
+orchestra
+piano
+saxophone
+song
+symphony
+synthesizer
+trombone
+trumpet
+tuba
+violin
+musician
+live
+sing
+note
+voice
+pop
+dance
+rap
+hit
+classical
+rhythm
+tune
+lyrics
+beat
+country
+disco
+ethnic
+folk
+jazz
+rock
+blues
+punk
+choir
+mainstream
+track
+genre
+duo
+trio
+measure
+catchy
+record
+improvise
+idol
+string
+top ten
+modern
+harmonica
+ensemble
+double bass
+rock band
+sheet music
+lead singer
+songwriter
+easy listening
+listen to music
+play an instrument
+national anthem
+instrumental
+tone deaf
+sing along
+background music
+go on tour
+turn down
+turn up
+pitch
+wind instruments
+xylophone
+tambourine
+foot pedal
+archet
+solo artist
+taste in music
+backing vocalist
+play out of tune
+music stand
+recording studio
+ear for music
+airplay
+top the chart
+put to music
+dance to the music
+digital audio
+copyright act
+duck
+poultry
+bat
+bear
+beaver
+bee
+butterfly
+cat
+caterpillar
+cock
+cockroach
+cow
+crocodile
+crow
+cuckoo
+deer
+dog
+donkey
+duckling
+eagle
+elephant
+falcon
+fox
+frog
+giraffe
+goat
+goose
+grasshopper
+hare
+hedgehog
+heron
+horse
+kangaroo
+kitten
+ladybird
+lion
+lizard
+lynx
+magpie
+monkey
+mouse
+nightingale
+ostrich
+owl
+parrot
+peacock
+penguin
+pheasant
+pig
+pigeon
+puppy
+rabbit
+ram
+rat
+raven
+seagull
+shark
+sheep
+snake
+sparrow
+spider
+squirrel
+stork
+swan
+tiger
+turtle
+wasp
+wild boar
+wolf
+woodpecker
+zebra
+habitat
+animal
+hamster
+camel
+whale
+dolphin
+bird
+raccoon
+leopard
+antilope
+piglet
+chick
+insect
+fang
+den
+cheetah
+predator
+snow leopard
+otter
+buffalo
+walrus
+rhinoceros
+cattle
+herd
+octopus
+mosquito
+mole
+dragonfly
+earthworm
+gill
+spawn
+fin
+slither
+hiss
+freshwater
+hollow
+anthill
+kennel
+flock
+shoal
+marmot
+ermine
+sable
+marten
+weasel
+mink
+aurochs
+roe deer
+porcupine
+tame
+pigsty
+cowshed
+cub
+jellyfish
+crest
+muzzle
+hoof
+peck
+bumblebee
+chirp
+bullfinch
+nestling
+burrow
+hummingbird
+feathering
+carapace
+flap the wings
+brood
+hatch out
+hibernate
+extinct species
+weather forecast
+paste
+cable
+file
+frame
+computer
+folder
+headline
+notebook
+screen
+microphone
+button
+editor
+printer
+call
+telephone
+photo
+save
+delete
+Internet
+message
+post
+press
+television
+channel
+tablet
+battery
+browser
+newspaper
+e-mail
+headphones
+cell
+charger
+calculator
+flash
+scanner
+monitor
+software
+password
+login
+database
+provider
+sender
+download
+modem
+network
+access
+user
+answering machine
+hang up
+pick up
+call back
+settings
+contrast
+take pictures
+switch on
+turn off
+hard disk
+incoming
+outcoming
+correspondence
+weekly
+broadcast
+magazine
+coverage
+mass media
+remote control
+print out
+go online
+memory card
+hacker
+subscriber
+search engine
+commercials
+home theatre
+wireless
+automation
+dial a number
+noises
+extension lead
+wiring
+voltage
+electrical device
+zap
+satellite dish
+cable TV
+crash
+news broadcast
+viewfinder
+tripod
+portable
+selfie stick
+short circuit
+camera lens
+exposure time
+world wide web
+large circulation
+user-friendly
+backup copy
+cybernetics
+quality newspaper
+colour supplement
+picnic
+author
+book
+chapter
+cover
+title
+writer
+billiards
+bowling
+fishing
+jogging
+martial arts
+reading
+story
+hunting
+cards
+camping
+tent
+hiking
+cooking
+yoga
+hobby
+novel
+poetry
+casino
+roulette
+bet
+dice
+collection
+lottery
+leisure
+relax
+bestseller
+gardening
+gamble
+crafts
+embroidery
+painting
+dancing
+outdoor
+indoor
+diamonds
+ace
+trump
+hook
+knitting
+sewing
+silently
+aloud
+bookmark
+comic strip
+flick through
+typo
+hound
+fishing rod
+float
+bait
+cast the net
+pack of cards
+bet on red
+crossword puzzle
+racecourse
+free time
+stamp collection
+bodybuilding
+scuba diving
+movie-goer
+allergy
+ambulance
+bandage
+bleeding
+bruise
+cancer
+ulcer
+plaster
+crutches
+diagnosis
+diarrhea
+dizziness
+fever
+food poisoning
+fracture
+headache
+laxative
+measles
+medicine
+operation
+painkiller
+paralysis
+patient
+prescription
+pulse
+sore throat
+sprain
+stroke
+sunstroke
+syringe
+pill
+thermometer
+toothache
+trauma
+vaccination
+x-ray
+ointment
+powder
+shot
+dentist
+doctor
+nurse
+surgeon
+illness
+health
+flu
+pain
+virus
+microbe
+symptom
+cough
+wound
+deaf
+dumb
+blind
+hurt
+temperature
+sneeze
+injury
+sweat
+respiration
+gene
+immunity
+infection
+cure
+care
+recover
+filling
+examine
+alcoholism
+epidemic
+runny nose
+pneumonia
+short-sighted
+far-sighted
+squint-eyed
+heart attack
+hepatitis
+seasickness
+faint
+vomiting
+labour
+abortion
+breathe in
+breathe out
+disabled person
+amputation
+consciousness
+cotton wool
+wheelchair
+stay in bed
+mixture
+eyedropper
+stretcher
+constipation
+stomach upset
+concussion
+shivering
+get treatment
+be in a coma
+intensive care
+emergency room
+general practitioner
+sleeping pill
+medicinal herbs
+medical check up
+run a fever
+splitting headache
+under the weather
+be up and about
+alive and kicking
+as fit as a fiddle
+at death's door
+black out
+die a natural death
+flare up
+nurse back to health
+be on the mend
+blood type
+blood pressure
+brake
+bumper
+carburettor
+clutch
+engine
+exhaust pipe
+handbrake
+ignition
+jack
+truck
+trunk
+van
+wheel
+wing
+nut
+bolt
+dent
+hammer
+screwdriver
+spanner
+valve
+fast
+car
+repair
+gas
+drive
+speed
+part
+asphalt
+vehicle
+bonnet
+tyre
+motor
+honk
+gearbox
+automatic
+headlight
+check
+bearing
+roadside
+lamppost
+reverse
+spin
+overtake
+collision
+tow
+scratch
+kerb
+ditch
+sports car
+snowplough
+off-road vehicle
+road tanker
+side window
+number plate
+silencer
+gas tank
+speed up
+gear lever
+turn indicator
+oil level
+horsepower
+road accident
+run into
+damage
+breakdown
+overheat
+freeze up
+fill up
+get stuck
+driving licence
+spare part
+antifreeze
+intact
+convertible
+rear-view mirror
+windscreen washer
+shock absorber
+airbag
+reversing light
+mileometer
+headrest
+piston
+engine oil
+cooling fan
+towrope
+puncture
+auto repair shop
+road junction
+road markings
+make a U-turn
+speed camera
+fasten the belt
+baby car seat
+roof rack
+dipped headlights
+full headlights
+at top speed
+flat tire
+run a red light
+breathalyzer test
+manual transmission
+suspended license
+armoured car
+lose control of
+a make of car
+reckless driver
+driving instructor
+disqualify from driving
+airport
+airplane
+aisle
+bus
+handrail
+oxygen mask
+pilot
+porter
+taxi
+train
+tram
+trolleybus
+timetable
+sailor
+train driver
+crew
+oar
+bicycle
+flight
+rails
+wagon
+boat
+ship
+port
+route
+underground
+scooter
+helicopter
+motorcycle
+shuttle
+tractor
+jet
+departure
+arrival
+yacht
+anchor
+captain
+parachute
+takeoff
+landing
+railway
+ferry
+motorboat
+seaman
+cabin
+announce
+transit
+fuel
+spaceship
+gangway
+wharf
+glider
+canoe
+ocean liner
+supersonic
+runway
+suburban train
+train steward
+berth
+cruiser
+sailing ship
+vessel
+ice breaker
+submarine
+lifeboat
+deck
+mast
+moor
+cast off
+school bus
+hot-air balloon
+double-decker
+bus route
+cargo ship
+turbine
+snowmobile
+cockpit
+emergency break
+get on the train
+train crash
+tugboat
+stern
+wardroom
+logbook
+run aground
+Man overboard
+cable car
+blimp
+bullet train
+boarding pass
+customs
+flight attendant
+full board
+half board
+luggage
+passport
+single room
+suitcase
+terminal
+visa
+map
+international
+administrator
+guide
+leave
+travel
+tourism
+check-in
+beach
+arrive
+guidebook
+resort
+visit
+tourist
+trip
+rest
+group
+stay
+booking
+tag
+fare
+sunglasses
+location
+excursion
+check-out
+destination
+no-smoking
+tan
+charter
+souvenir
+pack
+airline
+transfer
+brochure
+sightseeing
+domestic
+passport control
+travel agency
+five-star
+local time
+boarding gate
+flight number
+security check
+business class
+economy class
+all-inclusive
+hitch-hike
+go abroad
+sea view
+fanny pack
+comfortable
+exotic
+adventure
+on time
+flippers
+departure lounge
+chambermaid
+bellboy
+smoking section
+turbulence
+free of charge
+personal belongings
+luggage cart
+medical insurance
+package holiday
+see off
+set off on a trip
+memorable
+paid vacation
+get sunburned
+sunscreen
+group rate
+tourist trap
+red light district
+worldwide
+guided tour
+hit the road
+last minute deal
+reception
+barbecue
+toast
+host
+wedding
+event
+birthday
+New Year
+Santa Claus
+Christmas
+Easter
+invite
+guest
+gift
+fun
+banquet
+graduation
+parade
+May Day
+bouquet
+celebration
+anniversary
+fireworks
+greetings
+congratulate
+official
+religious
+carnival
+entertainer
+wish
+candle
+bless
+jubilee
+engagement
+secular
+commemorate
+hen night
+house-warming
+Lent
+April Fool's Day
+Independence Day
+Good Friday
+Father's Day
+Thanksgiving
+Valentine's Day
+public holiday
+feast
+invitation card
+greet the guests
+blow out the candle
+best man
+observance
+Christmas tree
+festive mood
+stag night
+fancy-dress
+midnight mass
+school play
+office party
+family gathering
+drink up
+fundraising event
+from dusk to dawn
+baptism
+cold
+breeze
+cool
+clear
+cloudless
+dew
+drizzle
+fog
+frost
+hail
+heat
+hurricane
+icicle
+indian summer
+lightning
+rainbow
+raindrop
+rainy
+scorching
+sleet
+snow
+snowflake
+stormy
+sunny
+thaw
+thunder
+warm
+weather
+mild
+carbon dioxide
+deforestation
+drought
+earthquake
+greenhouse effect
+slippery
+shine
+ice
+climate
+humid
+sunrise
+sunset
+sunlight
+downpour
+avalanche
+blizzard
+snowstorm
+chilly
+slush
+overcast
+whirlwind
+starry
+precipitation
+torrential
+twilight
+dawn
+northern lights
+global warming
+Gulf Stream
+evaporation
+stifling
+heatwave
+atmospheric pressure
+heat haze
+cold spell
+squall
+bank of clouds
+cumulus clouds
+stratus clouds
+black ice
+monsoon
+sandstorm
+gale
+raining cats and dogs
+blanket of snow
+clap of thunder
+changeable
+clear up
+heatstroke
+twister
+snowslide
+water cycle
+renewable resources
+scorcher
+below freezing
+history
+bow
+contemporary
+culture
+slavery
+helmet
+ancestor
+arrow
+sword
+tournament
+discovery
+tribe
+emperor
+knight
+armour
+pirate
+prince
+princess
+hunter
+ancient
+medieval
+prehistoric
+barbarian
+feudal
+vassal
+crusade
+heretic
+royal
+tsar
+Pharaoh
+century
+the past
+colony
+founder
+conquer
+source
+civilization
+mammoth
+cave
+chief
+archeology
+shield
+torture
+kingdom
+downfall
+gothic
+mummy
+archives
+invention
+explorer
+dynasty
+imperialism
+chronology
+domesticate
+rite
+nomad
+pilgrim
+settler
+Ice Age
+Stone Age
+Ancient Egypt
+Ancient Greece
+Roman Empire
+Middle Ages
+Renaissance
+Industrial Revolution
+worship
+superstition
+Byzantium
+coat of arms
+chain armour
+gunpowder
+Age of Discovery
+cultural heritage
+printing press
+city-state
+peasant
+artisan
+estate
+gold rush
+A.D.
+B.C.
+heraldry
+musketeer
+duke
+earl
+baron
+bishop
+art history
+chronicler
+antediluvian
+through the ages
+Dark Ages
+Enlightenment
+Knight Templar
+Hundred Years War
+Second World War
+Iron Curtain
+Eastern Block
+Silk Road
+highwayman
+chivalry
+excommunicate
+aboriginal peoples
+Alexander the Great
+Julius Caesar
+Genghis Khan
+William the Conqueror
+Richard the Lionheart
+Joan of Arc
+Christopher Columbus
+Ivan the Terrible
+cannon
+sabre
+spear
+crossbow
+circumnavigation
+seafaring
+fief
+guild
+visor
+siege
+Peter the Great
+just
+absolutely
+accidentally
+almost
+always
+approximately
+arrogantly
+badly
+barely
+beautifully
+blindly
+blissfully
+boastfully
+briefly
+brightly
+broadly
+carefully
+cautiously
+certainly
+cheerfully
+clearly
+cleverly
+colourfully
+commonly
+consequently
+correctly
+courageously
+daily
+daintily
+deceivingly
+deeply
+defiantly
+delightfully
+directly
+doubtfully
+easily
+energetically
+enthusiastically
+equally
+especially
+even
+evenly
+eventually
+exactly
+excitedly
+fairly
+finally
+fondly
+foolishly
+fortunately
+frequently
+greedily
+happily
+hardly
+honestly
+hopefully
+however
+immediately
+innocently
+justly
+kindly
+lastly
+late
+lately
+lazily
+less
+loosely
+loudly
+madly
+monthly
+mostly
+nearly
+never
+occasionally
+often
+perfectly
+politely
+randomly
+rarely
+really
+regularly
+seldom
+seriously
+shortly
+simply
+solemnly
+sometimes
+soon
+strongly
+suddenly
+tomorrow
+very
+weakly
+willingly
+yesterday
+give up
+take up
+make up
+put off
+talk over
+move in
+a little bit
+a piece of cake
+ahead of time
+all around
+quick as a flash
+add insult to injury
+hit the nail on the head
+once in a blue moon
+cut corners
+bird has flown
+in broad daylight
+against the clock
+bed of roses
+behind the scenes
+child's play
+divide and conquer
+burn the midnight oil
+time will tell
+I am all ears
+on the other hand
+apple of discord
+old hat
+dead wood
+smell a rat
+from the ground up
+keep eye on the ball
+learn the ropes
+be on the ball
+put on airs
+second to none
+hello
+my name is
+what is it?
+good buy
+call me
+excuse me
+good morning
+help me
+how are you?
+I love you
+I miss you
+I am happy
+I am hungry
+let's go
+no problem
+no, thank you
+you are beautiful
+I am from europe
+good luck
+is it possible?
+it is sunny
+do you speak english?
+I am ok
+I need
+all right
+what's new?
+repeat please
+anything else?
+are you all right?
+are you busy?
+at what time?
+good idea
+can I help you?
+do you hear me?
+be careful
+is it raining?
+I've been there
+just a little
+just a moment
+here you are
+have a good trip
+have a nice day
+he's right
+kiss me
+let it be
+where are you from?
+where are you going?
+where do you live?
+you look great
+you're right
+I must
+that's right
+I prefer
+I think so
+sounds good
+dreams come true
+everything is ready
+follow me
+did I get you right?
+it doesn't matter
+it is new to me
+may I ask you a question?
+next time lucky
+pedal
+pump
+radiator
+seat belt
+speedometer
+spring
+platform
+aggravation
+cut
+glass
+hot
+season
+sky
+sun
+entrance
+exit
+square
+barley
+buckwheat
+grain
+maize
+millet
+rye
+wheat
+fly
+arson
+assault
+blackmail
+bribe
+court
+crime
+criminal
+defendant
+fraud
+guilty
+innocent
+jury
+kidnapping
+mugging
+murder
+perjury
+prisoner
+punishment
+sentence
+thief
+witness
+log
+pole
+globe
+ruler
+volume
+brown
+grey
+red
+short
+capitalism
+democracy
+dictatorship
+elections
+embassy
+extortion
+foreign policy
+general election
+government
+independence
+king
+majority
+monarchy
+negotiations
+politics
+president
+queen
+plain
+plastic
+rubber
+poacher
+civil servant
+judge
+lawyer
+politician
+public prosecutor
+archery
+athlete
+barbell
+baseball
+basketball
+biathlon
+boxing
+car racing
+chess
+coach
+cross-country skiing
+cycling
+diving
+draughts
+fencing
+figure skating
+football
+gym
+high jump
+hockey
+long jump
+net
+puck
+racket
+referee
+horse riding
+rowing
+rugby
+sailing
+ski poles
+team
+volleyball
+water polo
+wrestling
+iris
+mean
+reserved
+black
+blue
+copper
+green
+pink
+silver
+violet
+white
+yellow
+ash
+beech
+birch
+bluebell
+camomile
+carnation
+clover
+cone
+daffodil
+dahlia
+daisy
+dandelion
+elm
+fir
+hyacinth
+ivy
+jasmine
+larch
+lily
+maple
+marigold
+oak
+orchid
+pansy
+poplar
+poppy
+primrose
+rose
+snowdrop
+sunflower
+thistle
+tulip
+water lily
+actual
+alone
+another
+basic
+best
+better
+big
+busy
+central
+certain
+common
+complete
+correct
+deep
+different
+direct
+early
+easy
+empty
+entire
+equal
+far
+final
+free
+front
+full
+good
+heavy
+high
+human
+important
+known
 large
 last
-late
-later
-laugh
-learn
-leave
-lesson
-let
-lie
 light
-like
-line
-listen
 little
-live
 long
-look
-lunch
+loud
+low
 main
-make
-map
-married
-match
-meal
-mean
-meaning
-meat
-meet
-member
-menu
-metre
-midnight
-mile
-milk
-million
-minute
-miss
-model
-modern
-moment
-money
-month
-most
-mountain
-name
+national
 near
-negative
-never
-news
+new
 next
-nice
-night
-nineteen
-ninety
-nobody
-nose
-note
-nothing
-number
-nurse
-o'clock
-often
-once
+old
 only
-open
-out
-own
-page
-painting
-pair
-parent
-park
-part
-past
-pay
-pen
-people
-period
-person
-phone
-phrase
-place
-play
-player
-policeman
-pool
-positive
-post
-pound
-prepare
-present
-pretty
-price
-probably
-product
-program
-purple
-put
-quarter
-question
+poor
+possible
+private
 quick
-quickly
-quiet
-quite
-rain
-read
-reading
 ready
-reason
-result
-return
-rice
+real
+recent
 rich
-ride
 right
-road
-routine
-run
-sad
-school
-sea
-see
-sell
-send
-share
-sheep
-shoe
-shop
-shopping
-short
-show
-similar
-singer
-sister
-sit
-skill
-skirt
-sleep
+round
+safe
+same
+simple
 slow
 small
-somebody
-someone
-something
-sometimes
-song
-sorry
-sound
-soup
-speak
 special
+staring
+strong
+tasty
+usual
+various
+whole
+wide
+wooden
+young
+add
+answer
+ask
+base
+be
+become
+begin
+believe
+bring
+build
+can
+carry
+cause
+close
+come
+cross
+decide
+develop
+differ
+discuss
+do
+draw
+eat
+fall
+find
+follow
+force
+get
+give
+go
+grow
+happen
+hear
+help
+increase
+inform
+keep
+know
+lay
+lead
+learn
+let
+like
+listen
+look
+make
+may
+might
+move
+must
+need
+open
+own
+pay
+play
+produce
+put
+reach
+read
+run
+say
+see
+set
+sit
+sleep
 spell
-spend
 stand
 start
-stay
-still
 stop
-student
-style
-summer
-sun
-swim
-swimming
-table
 take
 talk
-tea
-teacher
-team
-teenager
+teach
 tell
-terrible
-text
 think
-third
-thirsty
-thousand
-through
-time
-tired
-title
-today
-together
-tomorrow
-tonight
-tooth
-topic
 try
 turn
-twelve
-twice
-under
-until
-useful
-very
-village
-visit
-visitor
-wake
+understand
+walk
 want
-warm
-wash
-way
-wear
-website
-week
-weekend
-well
-white
-wife
+watch
+wonder
+write
+they
+who
+when
+why
+point
+be beat
+hang out
+chill out
+mate
+gutted
+wheels
+homie
+be amped
+fortnight
+peanuts
+dodgy
+leg it
+come by
+to have big time
+kudos
+blatant
+cram
+faff
+flog
+nosh
+haggle
+have a kip
+donkey's years
+cheerio
+wonky
+sea
+soccer
+tennis
+running
+player
+match
+ball
+attack
+medal
+whistle
+swimming
+period
+rink
+alpinism
+substitute
+forward
+champion
+score
+scoreboard
+checkmate
+target
+defeat
 win
-winter
+goalkeeper
+halfback
+trophy
+track and field
+pole vaulting
+weightlifting
+training machine
+treadmill
+dumbbell
+hockey stick
+ice skates
+score a goal
+concede a goal
+football club
+half-time
+send off
+disqualify
+tennis court
+boxing glove
+Olympic games
+first place
+set a record
+finish line
+horizontal bar
+parallel bars
+major league
+free kick
+corner kick
+penalty kick
+pawn
+rook
+Grand Master
+lightweight
+middleweight
+heavyweight
+prize cup
+world championship
+support
+sportsmanship
+cheer on
+sports facilities
+personal trainer
+home game
+away game
+space
+world
+star
+planet
+nature
+Europe
+Asia
+Africa
+America
+Antarctica
+north
+south
+east
+west
+ocean
+island
+wave
+air
+mountain
+hill
+lake
+river
+forest
+Arctic
+continent
+Earth
+Moon
+Mars
+Venus
+Jupiter
+Saturn
+Mercury
+Uranus
+Neptune
+Pluto
+shore
+coast
+horizon
+volcano
+waterfall
+swamp
+Alps
+Himalayas
+meteorite
+asteroid
+atmosphere
+gulf
+bay
+harbour
+scale
+iron
+clay
+marble
+canyon
+glacier
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+Caucasus
+Andes
+comet
+Solar System
+valley
+cape
+high tide
+low tide
+gorge
+eruption
+cliff
+bank of river
+Black Sea
+Dead Sea
+Mediterranean Sea
+Baltic Sea
+Thames
+Danube
+Nile
+Seine
+Loire
+Amazon
+universe
+galaxy
+satellite
+Milky Way
+North star
+latitude
+longitude
+equator
+summit
+meridian
+pond
+sea level
+minerals
+time zone
+Far East
+Middle East
+Niagara Falls
+Sahara Desert
+peninsula
+hemisphere
+constellation
+solar eclipse
+slope
+riverbed
+downstream
+upstream
+natural resources
+abyss
+sandbank
+round the world
+rainforest
+mountain chain
+Rocky Mountains
+Easter Island
+trench
+crevice
+tributary
+rockfall
+estuary
+International Date Line
+prime meridian
+tidal wave
+lithospheric plate
+weathering
+Strait of Gibraltar
+Cape of Good Hope
+Great Barrier Reef
+tree
+flower
+plant
+grass
+leaf
+linden
+cactus
+stem
+thorn
+smell
+seed
+root
+branch
+pine
+cedar
+cypress
+bush
+mint
+nettle
+fade
+pick
+bamboo
+berry
+petal
+aspen
+willow
+blossom
+spruce
+rowan
+alder
+chestnut
+sequoia
+eucalyptus
+shrub
+cornflower
+forget-me-not
+lily of the valley
+holly
+bark
+bulb
+pollen
+stump
+deciduous
+coniferous
+evergreen
+decorative
+mangrove
+dog rose
+edible
+toadstool
+boletus
+birch bolete
+fly agaric
+lawn
+flowerbed
+acorn
+foliage
+twig
+bud
+moss
+grove
+seaweed
+blade of grass
+germinate
+prune
+mow
+rake
+sorrel
+frond
+juniper
+kelp
+perennial
+prickle
+sap
+sapling
+vegetation
+sow
+closed
+welcome
+push
+pull
+attention
+danger
+no exit
+first aid
+no parking
+do not disturb
+fire exit
+for rent
+no smoking
+upstairs
+downstairs
+special offer
+good value
+staff only
+pick up
+drop off
+do not touch
+flammable
+forbidden
+no trespassing
+wet paint
+sold out
+keep right
+stop request
+no pets
+construction
+no swimming
+slow down
+fragile
+for lease
+out of order
+open 24HRS
+out for lunch
+back in 15 minutes
+no vacancies
+mind your step
+baby on board
+garage sale
+hour parking
+closing down sale
+priority seating
+buy 1 get 1 free
+70% off everything
+beware of the dog
+keep off the grass
+beware of traffic
+beware of pickpockets
+no bill-sticking
+queue this side
+give way
+fresh produce
+road ahead closed
+restricted area
+keep door closed
+no soliciting
+state
+citizen
+party
+republic
+society
+power
+conflict
+crisis
+leader
+speech
+council
+diplomat
+treaty
+parliament
+communism
+constitution
+corruption
+revolution
+fascism
+liberal
+belief
+ambassador
+ministry
+delegate
+immigration
+anarchy
+voter
+reform
+regime
+opposition
+mayor
+faction
+appoint
+consulate
+refugee
+radical
+supporter
+influence
+tyranny
+demonstration
+militant
+manifesto
+censor
+spokesman
+national emblem
+head of state
+campaign
+official visit
+prime minister
+right-wing
+left-wing
+referendum
+human rights
+freedom of speech
+polling day
+opinion poll
+mediator
+international relations
+state visit
+entry visa
+residence permit
+work permit
+committee
+conspiracy
+overthrow
+coup d'etat
+military coup
+sovereignty
+ballot box
+reactionary
+in power
+member of parliament
+statesman
+chamber
+constituency
+census
+absolute power
+domestic policy
+dissolve
+self-sufficiency
+political prisoner
+summit meeting
+party line
+televised debate
+political analyst
+Minister for Education
+illegal immigrant
+secret agent
+intelligence
+European Union
+veto
+schism
+provisional government
+officeholder
+seize power
+grass roots
+tighten security
+universal suffrage
+run for office
+the legislative
+the executive
+the judiciary
+term of office
+pass a law
+reach a settlement
+official representative
+free-trade zone
+mob rule
+public purse
+draft bill
+state of emergency
+political asylum
+defect to the West
+relieve of duties
+welfare state
+classified material
+guest worker
+break links
+legal
+catch
+arrest
+steal
+protect
+case
+proof
+robber
+prove
+accuse
+defend
+question
+charge
+escape
+armed
+lock
+suspect
+hearing
+justice
+incident
+fight
+victim
+chase
+shoplifter
+murderer
+prosecute
+confession
+appeal
+acquit
+detention
+fingerprints
+handcuffs
+bail
+valuables
+smuggling
+release
+investigation
+car theft
+drug dealer
+stab
+hostage
+ransom
+pardon
+imprisonment
+tear gas
+convict
+loot
+hold up
+riot
+sue
+police squad
+burglar
+solicitor
+minor offence
+capital punishment
+in custody
+give oneself up
+juvenile delinquent
+commit a crime
+break the law
+go to court
+plead guilty
+pass verdict
+be tried
+football hooligan
+traffic police
+interrogation
+magistrate
+testimony
+criminal record
+clean record
+law-abiding
+accomplice
+instigator
+counterfeiter
+fugitive
+hijacking
+missing person
+prison break
+crack a safe
+on the run
+pick a lock
+hardened
+pocket-picking
+offshore territory
+point blank
+bullet proof
+detention unit
+tax evasion
+recognizance not to leave
+extenuating circumstances
+organized crime
+cover one's tracks
+listen in on
+suspended sentence
+life imprisonment
+solitary confinement
+unfit to plead
+lack of evidence
+settling of scores
+piece of evidence
+I
+you
+he
+she
+it
+we
+bye-bye
+thank you
+sorry
+please
+ok
+mister
+miss
+what
+where
+how
+which
+and
+or
+but
+for
+too
+about
+colour
 with
 without
-woman
-word
-world
-writer
-yeah
-die
-fly
-mum
-thirty
-bed
-brown
-cool
-dad
-dirty
-eighteen
-eighty
-far
-fifth
-fifty
-forty
-fourteen
-fourth
-girl
-great
-grey
-lose
-man
-more
-pink
-red
-seventeen
-seventy
-sick
-sing
-sixteen
-sixty
-son
-tall
+to
+around
+before
+in front of
+behind
+under
+in
+from
+nobody
+over
+by
+others
+each
+any
+all
+figure
+number
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
 thirteen
 twenty
-wrong
-blog
-clock
-description
-difference
-interview
-magazine
-practice
-science
-rule
-sentence
-shirt
-card
-history
-important
-back
+thirty
+fourty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+thousand
+million
+billion
+night
+week
+month
+year
+morning
+evening
+day
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+minute
+hour
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+time
+circle
+line
+weight
+length
+width
+height
+depth
+gram
+kilogram
+metre
+half
+material
+wood
+stone
+paper
+gold
+steel
+how much
+how many
+where from
+whose
+because
+I'm fine
+see you soon
+good night
+triangle
+oval
+rectangle
+rhombus
+horizontal
+vertical
+parallel
+angle
+ton
+inch
+litre
+quantity
+dozen
+fabric
+cardboard
+metal

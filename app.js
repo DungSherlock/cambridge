@@ -8,7 +8,7 @@ const outputFilePath = path.join(process.cwd(), 'output.txt');
 const proxyUrl = 'http://localhost:3000/proxy?url=';
 const baseUrl = 'https://dictionary.cambridge.org/vi/dictionary/english/';
 const maxAttempts = 10;
-const batchSize = 100;
+const batchSize = 50;
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -31,14 +31,14 @@ async function processWord(queryWord) {
             const usAudioMatch = Array.from(document.querySelectorAll('#page-content span.us.dpron-i source')).filter(e => e.getAttribute("src")?.includes('.mp3')).map(e => e.getAttribute("src").trim())[0];
             const usAudio = usAudioMatch ? 'https://dictionary.cambridge.org' + usAudioMatch : 'N/A';
 
-            return `${queryWord}|${phonetic}|${usAudio}`;
+            return `${queryWord}\t${phonetic}\t${usAudio}`;
         } catch (error) {
             console.error(`Error on attempt ${attempts} for "${queryWord}":`, error);
             await delay(2000);  // Chờ 2 giây trước khi thử lại
         }
     }
 
-    return `${queryWord}|N/A|N/A`;
+    return `${queryWord}\tN/A\tN/A`;
 }
 
 async function processInBatches(words, batchSize) {
